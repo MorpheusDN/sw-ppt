@@ -1,0 +1,229 @@
+{
+  "kind": "self-built-diagnostic",
+  "not_course_gold": true,
+  "single_ai_annotator": true,
+  "cases": [
+    {
+      "question_id": "project-dynamic-01",
+      "rationale": "Researching, applying, and passing interviews are successive stages of the same stated process.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D13:1",
+          "speaker": "Caroline",
+          "text": "Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!",
+          "session_time": "3:31 pm on 23 August, 2023"
+        },
+        {
+          "turn": "D19:1",
+          "speaker": "Caroline",
+          "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+          "session_time": "9:55 am on 22 October, 2023"
+        },
+        {
+          "turn": "D2:8",
+          "speaker": "Caroline",
+          "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+          "session_time": "1:14 pm on 25 May, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-02",
+      "rationale": "Later application and interviews must not replace the state at the explicit earlier date.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D2:8",
+          "speaker": "Caroline",
+          "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+          "session_time": "1:14 pm on 25 May, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-03",
+      "rationale": "Both sources report the same loss of employment. A later repetition is not a new contradictory job state.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D1:3",
+          "speaker": "Gina",
+          "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?",
+          "session_time": "4:04 pm on 20 January, 2023"
+        },
+        {
+          "turn": "D6:4",
+          "speaker": "Gina",
+          "text": "Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!",
+          "session_time": "2:35 pm on 16 March, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-04",
+      "rationale": "A dance preference and operating a studio can coexist. The system should not discard one as a newer scalar value.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D1:8",
+          "speaker": "Jon",
+          "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
+          "session_time": "4:04 pm on 20 January, 2023"
+        },
+        {
+          "turn": "D5:4",
+          "speaker": "Jon",
+          "text": "Thanks, Gina! I love running my own studio. It's great having the freedom to create a space and help dancers of all ages and levels express themselves. I'm super thrilled about dancing each day and seeing my students progress. It's so fulfilling.",
+          "session_time": "9:32 am on 8 February, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-05",
+      "rationale": "A named puppy report and a shelter-adoption report do not by themselves prove mutually exclusive ownership or a replacement.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D30:1",
+          "speaker": "Maria",
+          "text": "Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+          "session_time": "12:10 am on 11 August, 2023"
+        },
+        {
+          "turn": "D31:2",
+          "speaker": "Maria",
+          "text": "Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home.",
+          "session_time": "3:14 pm on 13 August, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-06",
+      "rationale": "The named activities are a compatible set, not successive replacements.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D2:17",
+          "speaker": "Maria",
+          "text": "My fam's small, but I love spending time with the friends I have. We usually watch movies, hike, and have game nights at my place. Quality connections matter most to me.",
+          "session_time": "6:10 pm on 22 December, 2022"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-07",
+      "rationale": "The new adoption explicitly mentions other pets. Existing turtles are not invalidated by another pet.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D12:5",
+          "speaker": "Nate",
+          "text": "Thanks! It's awesome - he's adopted and so full of energy, and he's filling my life with so much joy. He's even keeping my other pets active.",
+          "session_time": "7:49 pm on 20 May, 2022"
+        },
+        {
+          "turn": "D2:14",
+          "speaker": "Nate",
+          "text": "Thanks! The turtles might be small, but both sure have big personalities. I really reccomend having something like these little guys for times of stress.",
+          "session_time": "2:01 pm on 23 January, 2022"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-08",
+      "rationale": "A rejection by one company remains a historical event even if a film is later described as published. The later report does not erase the rejection.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D14:1",
+          "speaker": "Joanna",
+          "text": "Nate, after finishing my screenplay I got a rejection letter from a major company. It really bummed me out.",
+          "session_time": "5:44 pm on 3 June, 2022"
+        },
+        {
+          "turn": "D17:19",
+          "speaker": "Nate",
+          "text": "Good luck on that! I'm sure people will recognise you as the same author of the movie you got published and love the book even more.",
+          "session_time": "2:34 pm on 10 July, 2022"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-09",
+      "rationale": "The explicit highest-score report is the evidence. Other hobbies are not basketball score updates.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D3:1",
+          "speaker": "John",
+          "text": "Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+          "session_time": "4:21 pm on 16 July, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-10",
+      "rationale": "Scoring in basketball and surfing are separate compatible activities, not mutually exclusive scalar values.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D3:1",
+          "speaker": "John",
+          "text": "Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+          "session_time": "4:21 pm on 16 July, 2023"
+        },
+        {
+          "turn": "D3:27",
+          "speaker": "John",
+          "text": "I started surfing five years ago and it's been great. I love the connection to nature.",
+          "session_time": "4:21 pm on 16 July, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-11",
+      "rationale": "The later explicit puppy ownership supersedes the earlier no-pets state. Further dog ownership is compatible, while the pet count needs a separate attribute.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D12:1",
+          "speaker": "Andrew",
+          "text": "Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+          "session_time": "10:05 am on 11 July, 2023"
+        },
+        {
+          "turn": "D1:12",
+          "speaker": "Andrew",
+          "text": "No, no pets right now. But I do love animals.",
+          "session_time": "1:10 pm on 27 March, 2023"
+        },
+        {
+          "turn": "D24:2",
+          "speaker": "Andrew",
+          "text": "Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+          "session_time": "6:12 pm on 19 October, 2023"
+        },
+        {
+          "turn": "D27:5",
+          "speaker": "Andrew",
+          "text": "That looks fun! Seeing those adorable pups made me think about getting another dog, but I'm still not sure. Having two dogs is already a lot to take care of. Do you have any tips on being a multi-dog pet owner?",
+          "session_time": "7:59 pm on 4 November, 2023"
+        }
+      ]
+    },
+    {
+      "question_id": "project-dynamic-12",
+      "rationale": "The no-pets statement precedes the later adoption. Future ownership is excluded for this explicit date.",
+      "independent_human_review": false,
+      "sources": [
+        {
+          "turn": "D1:12",
+          "speaker": "Andrew",
+          "text": "No, no pets right now. But I do love animals.",
+          "session_time": "1:10 pm on 27 March, 2023"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0818452380952381,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.4739583333333333,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.5273136874989177,
+  "detail": [
+    {
+      "question_id": "conv-43-qa-042",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": null,
+      "elapsed_seconds": 3.91929039999377
+    },
+    {
+      "question_id": "conv-43-qa-001",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.016280099996947683
+    },
+    {
+      "question_id": "conv-43-qa-020",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.25,
+      "effective_recall": 0.25,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.08033299999806331
+    },
+    {
+      "question_id": "conv-43-qa-012",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.010054600003059022
+    },
+    {
+      "question_id": "conv-43-qa-032",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.010299499997927342
+    },
+    {
+      "question_id": "conv-43-qa-015",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.049992599997494835
+    },
+    {
+      "question_id": "conv-43-qa-102",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.008104799999273382
+    },
+    {
+      "question_id": "conv-43-qa-131",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.05383849999634549
+    },
+    {
+      "question_id": "conv-44-qa-056",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": null,
+      "elapsed_seconds": 3.835617500000808
+    },
+    {
+      "question_id": "conv-44-qa-050",
+      "qa_f1": 0.6666666666666666,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.09707150000031106
+    },
+    {
+      "question_id": "conv-44-qa-058",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.0631202000004123
+    },
+    {
+      "question_id": "conv-44-qa-045",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.3333333333333333,
+      "effective_recall": 0.3333333333333333,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.04751630000100704
+    },
+    {
+      "question_id": "conv-44-qa-020",
+      "qa_f1": 0.5,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.05832839999493444
+    },
+    {
+      "question_id": "conv-44-qa-053",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.04549560000305064
+    },
+    {
+      "question_id": "conv-44-qa-089",
+      "qa_f1": 0.14285714285714285,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.06607880000228761
+    },
+    {
+      "question_id": "conv-44-qa-101",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.07559719999699155
+    }
+  ],
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}

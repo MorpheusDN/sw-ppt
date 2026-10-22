@@ -1,0 +1,281 @@
+{
+  "query_id": "q_693e34b56934db55",
+  "conversation_id": "conv-26",
+  "question": "What is Caroline's identity?",
+  "method": "vector",
+  "as_of": "2023-10-22T09:55:00",
+  "time_reference": "conversation_end",
+  "scope": {
+    "entity": null,
+    "attribute": null
+  },
+  "candidates": [
+    {
+      "memory_id": "mem_cf0074ad33fa20686538",
+      "conversation_id": "conv-26",
+      "content": "What are their names?",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "What are their names?",
+      "session_time": "2023-07-12T16:33:00",
+      "event_time": "2023-07-12T16:33:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 7,
+        "turns": [
+          "D7:17"
+        ],
+        "text": "Ah, they're adorable! What are their names? Pets sure do bring so much joy to us!"
+      },
+      "retrieval_score": 0.789291
+    },
+    {
+      "memory_id": "mem_4e6f90709dcef9cb5be7",
+      "conversation_id": "conv-26",
+      "content": "Take a look at this.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "Take a look at this.",
+      "session_time": "2023-06-27T10:37:00",
+      "event_time": "2023-06-27T10:37:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 4,
+        "turns": [
+          "D4:1"
+        ],
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this."
+      },
+      "retrieval_score": 0.762569
+    },
+    {
+      "memory_id": "mem_41fa404f5d06ec998134",
+      "conversation_id": "conv-26",
+      "content": "What did it look like?",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "What did it look like?",
+      "session_time": "2023-07-20T20:56:00",
+      "event_time": "2023-07-20T20:56:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 10,
+        "turns": [
+          "D10:15"
+        ],
+        "text": "Cool! What did it look like?"
+      },
+      "retrieval_score": 0.749455
+    },
+    {
+      "memory_id": "mem_01ca8c9fb6914609028e",
+      "conversation_id": "conv-26",
+      "content": "That's neat.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "That's neat.",
+      "session_time": "2023-07-15T13:51:00",
+      "event_time": "2023-07-15T13:51:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 8,
+        "turns": [
+          "D8:11"
+        ],
+        "text": "Thanks Melanie - love the blue vase in the pic! Blue's my fave, it makes me feel relaxed. Sunflowers mean warmth and happiness, right? While roses stand for love and beauty? That's neat. What do flowers mean to you?"
+      },
+      "retrieval_score": 0.744415
+    },
+    {
+      "memory_id": "mem_cb0e3b3d1f43a7ec9bee",
+      "conversation_id": "conv-26",
+      "content": "It stands for freedom and being real.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "It stands for freedom and being real.",
+      "session_time": "2023-10-13T10:31:00",
+      "event_time": "2023-10-13T10:31:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 17,
+        "turns": [
+          "D17:23"
+        ],
+        "text": "Thanks, Melanie! Yeah, I drew it. It stands for freedom and being real. It's like a nudge to always stay true to myself and embrace my womanhood."
+      },
+      "retrieval_score": 0.731007
+    },
+    {
+      "memory_id": "mem_10d17e2ac1790742c80e",
+      "conversation_id": "conv-26",
+      "content": "It's a real gift.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "It's a real gift.",
+      "session_time": "2023-10-22T09:55:00",
+      "event_time": "2023-10-22T09:55:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 19,
+        "turns": [
+          "D19:11"
+        ],
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift."
+      },
+      "retrieval_score": 0.729771
+    },
+    {
+      "memory_id": "mem_1864fe283a4d44451a36",
+      "conversation_id": "conv-26",
+      "content": "Their encouragement made me who I am.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "Their encouragement made me who I am.",
+      "session_time": "2023-10-22T09:55:00",
+      "event_time": "2023-10-22T09:55:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 19,
+        "turns": [
+          "D19:13"
+        ],
+        "text": "Glad you agree, Caroline. Appreciate the support of those close to me. Their encouragement made me who I am."
+      },
+      "retrieval_score": 0.729544
+    },
+    {
+      "memory_id": "mem_6d136a887918155c3ba8",
+      "conversation_id": "conv-26",
+      "content": "It's a symbol of togetherness, to celebrate differences and be that much closer.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "It's a symbol of togetherness, to celebrate differences and be that much closer.",
+      "session_time": "2023-08-25T13:33:00",
+      "event_time": "2023-08-25T13:33:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 14,
+        "turns": [
+          "D14:21"
+        ],
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!"
+      },
+      "retrieval_score": 0.728091
+    },
+    {
+      "memory_id": "mem_cff943f94919bda14875",
+      "conversation_id": "conv-26",
+      "content": "There's something I want to tell you.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "There's something I want to tell you.",
+      "session_time": "2023-08-25T13:33:00",
+      "event_time": "2023-08-25T13:33:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "plan",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 14,
+        "turns": [
+          "D14:1"
+        ],
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them."
+      },
+      "retrieval_score": 0.728077
+    },
+    {
+      "memory_id": "mem_cb52cff93b818bf22559",
+      "conversation_id": "conv-26",
+      "content": "Such a powerful, emotional experience.",
+      "entity": "Caroline",
+      "attribute": "observation",
+      "value": "Such a powerful, emotional experience.",
+      "session_time": "2023-08-28T15:19:00",
+      "event_time": "2023-08-28T15:19:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "verbatim-fallback",
+      "source": {
+        "session": 15,
+        "turns": [
+          "D15:5"
+        ],
+        "text": "I loved it. It was awesome to see how strong the young people were, with all the challenges they face. I felt fulfilled guiding and supporting them. I even got to let them know they're not alone by sharing my story. Such a powerful, emotional experience."
+      },
+      "retrieval_score": 0.723413
+    }
+  ],
+  "relations": [],
+  "decisions": {
+    "mem_cf0074ad33fa20686538": "RETRIEVED_UNRESOLVED",
+    "mem_4e6f90709dcef9cb5be7": "RETRIEVED_UNRESOLVED",
+    "mem_41fa404f5d06ec998134": "RETRIEVED_UNRESOLVED",
+    "mem_01ca8c9fb6914609028e": "RETRIEVED_UNRESOLVED",
+    "mem_cb0e3b3d1f43a7ec9bee": "RETRIEVED_UNRESOLVED",
+    "mem_10d17e2ac1790742c80e": "RETRIEVED_UNRESOLVED",
+    "mem_1864fe283a4d44451a36": "RETRIEVED_UNRESOLVED",
+    "mem_6d136a887918155c3ba8": "RETRIEVED_UNRESOLVED",
+    "mem_cff943f94919bda14875": "RETRIEVED_UNRESOLVED",
+    "mem_cb52cff93b818bf22559": "RETRIEVED_UNRESOLVED"
+  },
+  "effective_ids": [
+    "mem_cf0074ad33fa20686538",
+    "mem_4e6f90709dcef9cb5be7",
+    "mem_41fa404f5d06ec998134",
+    "mem_01ca8c9fb6914609028e",
+    "mem_cb0e3b3d1f43a7ec9bee",
+    "mem_10d17e2ac1790742c80e",
+    "mem_1864fe283a4d44451a36",
+    "mem_6d136a887918155c3ba8",
+    "mem_cff943f94919bda14875",
+    "mem_cb52cff93b818bf22559"
+  ],
+  "answer": "freedom and being real",
+  "answer_status": "answered",
+  "evidence_ids": [
+    "mem_cb0e3b3d1f43a7ec9bee"
+  ],
+  "context": "[D7:17] Caroline: What are their names?\n[D4:1] Caroline: Take a look at this.\n[D10:15] Caroline: What did it look like?\n[D8:11] Caroline: That's neat.\n[D17:23] Caroline: It stands for freedom and being real.\n[D19:11] Caroline: It's a real gift.\n[D19:13] Caroline: Their encouragement made me who I am.\n[D14:21] Caroline: It's a symbol of togetherness, to celebrate differences and be that much closer.\n[D14:1] Caroline: There's something I want to tell you.\n[D15:5] Caroline: Such a powerful, emotional experience.",
+  "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+  "engine_version": "0.5.1-locomo-onnx",
+  "warning": "Synthetic/local prototype results are not course benchmark results.",
+  "model_detail": {
+    "answer": "freedom and being real",
+    "windows": 1,
+    "covered_context_tokens": 160,
+    "span_start": 184,
+    "span_end": 206,
+    "span_log_probability": -0.11674785614013672,
+    "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+    "coverage_policy": "all context windows; no Top-K window selection"
+  },
+  "answer_source_turns": [
+    "D17:23"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RISC-V Memory export v1",
+  "type": "object",
+  "required": ["schema_version", "engine_version", "memories"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "engine_version": {"type": "string"},
+    "memories": {"type": "array", "items": {"$ref": "#/$defs/memory"}}
+  },
+  "$defs": {
+    "time": {"type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}$"},
+    "memory": {
+      "type": "object",
+      "required": ["memory_id", "conversation_id", "content", "entity", "attribute", "value", "session_time", "event_time", "time_expression", "time_basis", "modality", "extraction_method", "source"],
+      "additionalProperties": false,
+      "properties": {
+        "memory_id": {"type": "string", "pattern": "^mem_[a-f0-9]{20}$"},
+        "conversation_id": {"type": "string", "minLength": 1},
+        "content": {"type": "string", "minLength": 1},
+        "entity": {"type": "string", "minLength": 1},
+        "attribute": {"type": "string", "minLength": 1},
+        "value": {"type": "string"},
+        "session_time": {"$ref": "#/$defs/time"},
+        "event_time": {"$ref": "#/$defs/time"},
+        "time_expression": {"type": ["string", "null"]},
+        "time_basis": {"enum": ["event", "utterance", "unknown"]},
+        "modality": {"enum": ["assertion", "plan"]},
+        "extraction_method": {"enum": ["rules-v1", "verbatim-fallback"]},
+        "source": {
+          "type": "object", "required": ["session", "turns", "text"], "additionalProperties": false,
+          "properties": {
+            "session": {"type": ["string", "integer"]},
+            "turns": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+            "text": {"type": "string", "minLength": 1}
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-10-19T16:37:45.657Z",
+  "checks": [
+    "real Caroline current state with local QA",
+    "historical adoption evidence excludes future stages",
+    "real MiniLM vector retrieval and neural source span",
+    "Full Text processes all overlapping history windows",
+    "mobile layout and required input"
+  ],
+  "health": {
+    "status": "ok",
+    "dataset_path": "project-conversations.json",
+    "vector_available": true,
+    "memory_count": 10207,
+    "answer_model_available": true,
+    "mode": "local-coursework-prototype"
+  },
+  "page_errors": [],
+  "mobile_overflow": false,
+  "frontend": {
+    "react_root": true,
+    "echarts_svg": true,
+    "graph_click_source": true,
+    "empty_input_blocked": true
+  },
+  "external_requests": []
+}

@@ -1,0 +1,15 @@
+{
+  "engine_version": "0.5.1-locomo-onnx",
+  "method": "dynamic_lexical",
+  "k": 10,
+  "seed": 17,
+  "partition": "test",
+  "official": false,
+  "model_id": null,
+  "vector_model": null,
+  "dataset_sha256": "15630a0f8ba3f2e280fba06bd14073e1fa365d7a71c92c97309a46384b1fe895",
+  "questions_sha256": "e4699ba04469ae290497a1b80f6d957d801de6f5e0bc20f9a00a1f169e723e1b",
+  "split": null,
+  "timestamp_utc": "2026-10-19T16:38:28.354818+00:00",
+  "code_sha256": "b782d0edc5ff7c6ff5a14b07a60e508e76f11405551016585fdb48e134a84e9f"
+}

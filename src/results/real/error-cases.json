@@ -1,0 +1,1143 @@
+[
+  {
+    "case_type": "best_vector_answer",
+    "question_id": "conv-44-qa-050",
+    "conversation_id": "conv-44",
+    "question": "What is a skill that Audrey learned to take care of her dogs?",
+    "gold": {
+      "question_id": "conv-44-qa-050",
+      "answers": [
+        "Grooming"
+      ],
+      "evidence": [
+        "D16:2",
+        "D17:4"
+      ],
+      "category": 1,
+      "relations": []
+    },
+    "vector": {
+      "question_id": "conv-44-qa-050",
+      "conversation_id": "conv-44",
+      "question": "What is a skill that Audrey learned to take care of her dogs?",
+      "method": "vector",
+      "k": 10,
+      "as_of": "2023-11-22T09:02:00",
+      "answer": "grooming course",
+      "answer_status": "answered",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "grooming course",
+        "windows": 1,
+        "covered_context_tokens": 232,
+        "span_start": 345,
+        "span_end": 360,
+        "span_log_probability": -1.9249522686004639,
+        "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+        "coverage_policy": "all context windows; no Top-K window selection"
+      },
+      "candidate_turns": [
+        "D10:1",
+        "D13:12",
+        "D14:2",
+        "D16:6",
+        "D27:10",
+        "D27:2",
+        "D2:5",
+        "D6:10",
+        "D6:12",
+        "D6:2"
+      ],
+      "candidate_memory_ids": [
+        "mem_ccff6e9752ad0c1efcc4",
+        "mem_bc7445012c68997eb4a6",
+        "mem_7e15affa9d030d33abcd",
+        "mem_2752e06800b9365cfb49",
+        "mem_38c178703e308849902f",
+        "mem_f3788aba0dd5f3123a2e",
+        "mem_48cf22afdd32ffdea15f",
+        "mem_2d43cffa3cfc34ae7547",
+        "mem_55c599a7e2ea5120bdd6",
+        "mem_06ccf365f5e7c5de1906"
+      ],
+      "effective_turns": [
+        "D10:1",
+        "D13:12",
+        "D14:2",
+        "D16:6",
+        "D27:10",
+        "D27:2",
+        "D2:5",
+        "D6:10",
+        "D6:12",
+        "D6:2"
+      ],
+      "effective_ids": [
+        "mem_ccff6e9752ad0c1efcc4",
+        "mem_bc7445012c68997eb4a6",
+        "mem_7e15affa9d030d33abcd",
+        "mem_2752e06800b9365cfb49",
+        "mem_38c178703e308849902f",
+        "mem_f3788aba0dd5f3123a2e",
+        "mem_48cf22afdd32ffdea15f",
+        "mem_2d43cffa3cfc34ae7547",
+        "mem_55c599a7e2ea5120bdd6",
+        "mem_06ccf365f5e7c5de1906"
+      ],
+      "predicted_pairs": [],
+      "decisions": {
+        "mem_ccff6e9752ad0c1efcc4": "RETRIEVED_UNRESOLVED",
+        "mem_bc7445012c68997eb4a6": "RETRIEVED_UNRESOLVED",
+        "mem_7e15affa9d030d33abcd": "RETRIEVED_UNRESOLVED",
+        "mem_2752e06800b9365cfb49": "RETRIEVED_UNRESOLVED",
+        "mem_38c178703e308849902f": "RETRIEVED_UNRESOLVED",
+        "mem_f3788aba0dd5f3123a2e": "RETRIEVED_UNRESOLVED",
+        "mem_48cf22afdd32ffdea15f": "RETRIEVED_UNRESOLVED",
+        "mem_2d43cffa3cfc34ae7547": "RETRIEVED_UNRESOLVED",
+        "mem_55c599a7e2ea5120bdd6": "RETRIEVED_UNRESOLVED",
+        "mem_06ccf365f5e7c5de1906": "RETRIEVED_UNRESOLVED"
+      },
+      "context_sha256": "3ba6f47bd632852094bf96fe22c89126d53c245520202b866a9475227c4c25cb",
+      "context_chars": 799,
+      "elapsed_seconds": 0.09887280000111787,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "dynamic": {
+      "question_id": "conv-44-qa-050",
+      "conversation_id": "conv-44",
+      "question": "What is a skill that Audrey learned to take care of her dogs?",
+      "method": "dynamic_vector",
+      "k": 10,
+      "as_of": "2023-11-22T09:02:00",
+      "answer": "grooming course",
+      "answer_status": "answered",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "grooming course",
+        "windows": 1,
+        "covered_context_tokens": 232,
+        "span_start": 345,
+        "span_end": 360,
+        "span_log_probability": -1.9249522686004639,
+        "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+        "coverage_policy": "all context windows; no Top-K window selection"
+      },
+      "candidate_turns": [
+        "D10:1",
+        "D13:12",
+        "D14:2",
+        "D16:6",
+        "D27:10",
+        "D27:2",
+        "D2:5",
+        "D6:10",
+        "D6:12",
+        "D6:2"
+      ],
+      "candidate_memory_ids": [
+        "mem_ccff6e9752ad0c1efcc4",
+        "mem_bc7445012c68997eb4a6",
+        "mem_7e15affa9d030d33abcd",
+        "mem_2752e06800b9365cfb49",
+        "mem_38c178703e308849902f",
+        "mem_f3788aba0dd5f3123a2e",
+        "mem_48cf22afdd32ffdea15f",
+        "mem_2d43cffa3cfc34ae7547",
+        "mem_55c599a7e2ea5120bdd6",
+        "mem_06ccf365f5e7c5de1906"
+      ],
+      "effective_turns": [
+        "D10:1",
+        "D13:12",
+        "D14:2",
+        "D16:6",
+        "D27:10",
+        "D27:2",
+        "D2:5",
+        "D6:10",
+        "D6:12",
+        "D6:2"
+      ],
+      "effective_ids": [
+        "mem_ccff6e9752ad0c1efcc4",
+        "mem_bc7445012c68997eb4a6",
+        "mem_7e15affa9d030d33abcd",
+        "mem_2752e06800b9365cfb49",
+        "mem_38c178703e308849902f",
+        "mem_f3788aba0dd5f3123a2e",
+        "mem_48cf22afdd32ffdea15f",
+        "mem_2d43cffa3cfc34ae7547",
+        "mem_55c599a7e2ea5120bdd6",
+        "mem_06ccf365f5e7c5de1906"
+      ],
+      "predicted_pairs": [
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D6:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D6:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D6:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D10:1",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D13:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D2:5",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D6:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D6:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D10:1",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D13:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D6:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D10:1",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D13:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:10",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D10:1",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D13:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:12",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:1",
+          "to_turn": "D13:12",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:1",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:1",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:1",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:1",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D13:12",
+          "to_turn": "D14:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D13:12",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D13:12",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D13:12",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D14:2",
+          "to_turn": "D16:6",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D14:2",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D14:2",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D16:6",
+          "to_turn": "D27:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D16:6",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D27:2",
+          "to_turn": "D27:10",
+          "label": "RETAIN"
+        }
+      ],
+      "decisions": {
+        "mem_ccff6e9752ad0c1efcc4": "EFFECTIVE",
+        "mem_bc7445012c68997eb4a6": "EFFECTIVE",
+        "mem_7e15affa9d030d33abcd": "EFFECTIVE",
+        "mem_2752e06800b9365cfb49": "EFFECTIVE",
+        "mem_38c178703e308849902f": "EFFECTIVE",
+        "mem_f3788aba0dd5f3123a2e": "EFFECTIVE",
+        "mem_48cf22afdd32ffdea15f": "EFFECTIVE",
+        "mem_2d43cffa3cfc34ae7547": "EFFECTIVE",
+        "mem_55c599a7e2ea5120bdd6": "EFFECTIVE",
+        "mem_06ccf365f5e7c5de1906": "EFFECTIVE"
+      },
+      "context_sha256": "3ba6f47bd632852094bf96fe22c89126d53c245520202b866a9475227c4c25cb",
+      "context_chars": 799,
+      "elapsed_seconds": 0.09707150000031106,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "vector_metrics": {
+      "question_id": "conv-44-qa-050",
+      "qa_f1": 0.6666666666666666,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.09887280000111787
+    }
+  },
+  {
+    "case_type": "retrieval_miss",
+    "question_id": "conv-44-qa-058",
+    "conversation_id": "conv-44",
+    "question": "What did Audrey eat for dinner on October 24, 2023?",
+    "gold": {
+      "question_id": "conv-44-qa-058",
+      "answers": [
+        "sushi"
+      ],
+      "evidence": [
+        "D25:14"
+      ],
+      "category": 2,
+      "relations": []
+    },
+    "vector": {
+      "question_id": "conv-44-qa-058",
+      "conversation_id": "conv-44",
+      "question": "What did Audrey eat for dinner on October 24, 2023?",
+      "method": "vector",
+      "k": 10,
+      "as_of": "2023-11-22T09:02:00",
+      "answer": "some snack",
+      "answer_status": "answered",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "some snack",
+        "windows": 1,
+        "covered_context_tokens": 150,
+        "span_start": 91,
+        "span_end": 101,
+        "span_log_probability": -0.1825554519891739,
+        "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+        "coverage_policy": "all context windows; no Top-K window selection"
+      },
+      "candidate_turns": [
+        "D10:19",
+        "D10:25",
+        "D10:27",
+        "D23:2",
+        "D24:3",
+        "D25:4",
+        "D26:21",
+        "D28:7",
+        "D3:16",
+        "D6:2"
+      ],
+      "candidate_memory_ids": [
+        "mem_5bd31e922a6589dd8feb",
+        "mem_daaa0a12778d7b3e9991",
+        "mem_fb4e7e0cd22adb4daa37",
+        "mem_88f3435b34395d5caea1",
+        "mem_e423a31daf61af449e2c",
+        "mem_5374f528b654c6bc8e30",
+        "mem_bfed5d1a59ff8be0b088",
+        "mem_bf3acfa5d8651a616a36",
+        "mem_addb141e4b3766cf8bbe",
+        "mem_386dd0b0e05db85a98e4"
+      ],
+      "effective_turns": [
+        "D10:19",
+        "D10:25",
+        "D10:27",
+        "D23:2",
+        "D24:3",
+        "D25:4",
+        "D26:21",
+        "D28:7",
+        "D3:16",
+        "D6:2"
+      ],
+      "effective_ids": [
+        "mem_5bd31e922a6589dd8feb",
+        "mem_daaa0a12778d7b3e9991",
+        "mem_fb4e7e0cd22adb4daa37",
+        "mem_88f3435b34395d5caea1",
+        "mem_e423a31daf61af449e2c",
+        "mem_5374f528b654c6bc8e30",
+        "mem_bfed5d1a59ff8be0b088",
+        "mem_bf3acfa5d8651a616a36",
+        "mem_addb141e4b3766cf8bbe",
+        "mem_386dd0b0e05db85a98e4"
+      ],
+      "predicted_pairs": [],
+      "decisions": {
+        "mem_5bd31e922a6589dd8feb": "RETRIEVED_UNRESOLVED",
+        "mem_daaa0a12778d7b3e9991": "RETRIEVED_UNRESOLVED",
+        "mem_fb4e7e0cd22adb4daa37": "RETRIEVED_UNRESOLVED",
+        "mem_88f3435b34395d5caea1": "RETRIEVED_UNRESOLVED",
+        "mem_e423a31daf61af449e2c": "RETRIEVED_UNRESOLVED",
+        "mem_5374f528b654c6bc8e30": "RETRIEVED_UNRESOLVED",
+        "mem_bfed5d1a59ff8be0b088": "RETRIEVED_UNRESOLVED",
+        "mem_bf3acfa5d8651a616a36": "RETRIEVED_UNRESOLVED",
+        "mem_addb141e4b3766cf8bbe": "RETRIEVED_UNRESOLVED",
+        "mem_386dd0b0e05db85a98e4": "RETRIEVED_UNRESOLVED"
+      },
+      "context_sha256": "4b5528ceebae17628ed83f1bc5f67b4879e06c65ae8098fa5a6001a0fe94e81f",
+      "context_chars": 440,
+      "elapsed_seconds": 0.06566739999834681,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "dynamic": {
+      "question_id": "conv-44-qa-058",
+      "conversation_id": "conv-44",
+      "question": "What did Audrey eat for dinner on October 24, 2023?",
+      "method": "dynamic_vector",
+      "k": 10,
+      "as_of": "2023-11-22T09:02:00",
+      "answer": "some snack",
+      "answer_status": "answered",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "some snack",
+        "windows": 1,
+        "covered_context_tokens": 150,
+        "span_start": 91,
+        "span_end": 101,
+        "span_log_probability": -0.1825554519891739,
+        "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+        "coverage_policy": "all context windows; no Top-K window selection"
+      },
+      "candidate_turns": [
+        "D10:19",
+        "D10:25",
+        "D10:27",
+        "D23:2",
+        "D24:3",
+        "D25:4",
+        "D26:21",
+        "D28:7",
+        "D3:16",
+        "D6:2"
+      ],
+      "candidate_memory_ids": [
+        "mem_5bd31e922a6589dd8feb",
+        "mem_daaa0a12778d7b3e9991",
+        "mem_fb4e7e0cd22adb4daa37",
+        "mem_88f3435b34395d5caea1",
+        "mem_e423a31daf61af449e2c",
+        "mem_5374f528b654c6bc8e30",
+        "mem_bfed5d1a59ff8be0b088",
+        "mem_bf3acfa5d8651a616a36",
+        "mem_addb141e4b3766cf8bbe",
+        "mem_386dd0b0e05db85a98e4"
+      ],
+      "effective_turns": [
+        "D10:19",
+        "D10:25",
+        "D10:27",
+        "D23:2",
+        "D24:3",
+        "D25:4",
+        "D26:21",
+        "D28:7",
+        "D3:16",
+        "D6:2"
+      ],
+      "effective_ids": [
+        "mem_5bd31e922a6589dd8feb",
+        "mem_daaa0a12778d7b3e9991",
+        "mem_fb4e7e0cd22adb4daa37",
+        "mem_88f3435b34395d5caea1",
+        "mem_e423a31daf61af449e2c",
+        "mem_5374f528b654c6bc8e30",
+        "mem_bfed5d1a59ff8be0b088",
+        "mem_bf3acfa5d8651a616a36",
+        "mem_addb141e4b3766cf8bbe",
+        "mem_386dd0b0e05db85a98e4"
+      ],
+      "predicted_pairs": [
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D6:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D10:19",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D10:25",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D10:27",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D23:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D3:16",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D10:19",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D10:25",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D10:27",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D23:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:2",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D10:25",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D10:27",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D23:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:19",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D10:27",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D23:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:25",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:27",
+          "to_turn": "D23:2",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:27",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:27",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:27",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D10:27",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D23:2",
+          "to_turn": "D24:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D23:2",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D23:2",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D23:2",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D24:3",
+          "to_turn": "D25:4",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D24:3",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D24:3",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D25:4",
+          "to_turn": "D26:21",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D25:4",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D26:21",
+          "to_turn": "D28:7",
+          "label": "RETAIN"
+        }
+      ],
+      "decisions": {
+        "mem_5bd31e922a6589dd8feb": "EFFECTIVE",
+        "mem_daaa0a12778d7b3e9991": "EFFECTIVE",
+        "mem_fb4e7e0cd22adb4daa37": "EFFECTIVE",
+        "mem_88f3435b34395d5caea1": "EFFECTIVE",
+        "mem_e423a31daf61af449e2c": "EFFECTIVE",
+        "mem_5374f528b654c6bc8e30": "EFFECTIVE",
+        "mem_bfed5d1a59ff8be0b088": "EFFECTIVE",
+        "mem_bf3acfa5d8651a616a36": "EFFECTIVE",
+        "mem_addb141e4b3766cf8bbe": "EFFECTIVE",
+        "mem_386dd0b0e05db85a98e4": "EFFECTIVE"
+      },
+      "context_sha256": "4b5528ceebae17628ed83f1bc5f67b4879e06c65ae8098fa5a6001a0fe94e81f",
+      "context_chars": 440,
+      "elapsed_seconds": 0.0631202000004123,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "vector_metrics": {
+      "question_id": "conv-44-qa-058",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.06566739999834681
+    }
+  },
+  {
+    "case_type": "dynamic_abstention",
+    "question_id": "conv-43-qa-001",
+    "conversation_id": "conv-43",
+    "question": "What are John's goals for his career that are not related to his basketball skills?",
+    "gold": {
+      "question_id": "conv-43-qa-001",
+      "answers": [
+        "get endorsements, build his brand, do charity work"
+      ],
+      "evidence": [
+        "D6:15",
+        "D11:17"
+      ],
+      "category": 1,
+      "relations": []
+    },
+    "vector": {
+      "question_id": "conv-43-qa-001",
+      "conversation_id": "conv-43",
+      "question": "What are John's goals for his career that are not related to his basketball skills?",
+      "method": "vector",
+      "k": 10,
+      "as_of": "2024-01-12T13:41:00",
+      "answer": "Do you have any big goals",
+      "answer_status": "answered",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "Do you have any big goals",
+        "windows": 1,
+        "covered_context_tokens": 226,
+        "span_start": 13,
+        "span_end": 38,
+        "span_log_probability": -2.301115036010742,
+        "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+        "coverage_policy": "all context windows; no Top-K window selection"
+      },
+      "candidate_turns": [
+        "D11:15",
+        "D11:17",
+        "D16:10",
+        "D19:10",
+        "D19:8",
+        "D6:13",
+        "D6:14",
+        "D7:3",
+        "D8:7"
+      ],
+      "candidate_memory_ids": [
+        "mem_92bf538dd3465cc7a916",
+        "mem_976ad61284f46a7f02ac",
+        "mem_d95233b8a848c7a669a2",
+        "mem_6725ca1c55d4a8b8ee61",
+        "mem_6ff9b2c50d3a2a0b6271",
+        "mem_510ce71666e75426fe48",
+        "mem_6138ba3df10986884696",
+        "mem_baae26bcafcea725ccce",
+        "mem_199e5f2356be251b2d10",
+        "mem_0ddf55cd514232975af7"
+      ],
+      "effective_turns": [
+        "D11:15",
+        "D11:17",
+        "D16:10",
+        "D19:10",
+        "D19:8",
+        "D6:13",
+        "D6:14",
+        "D7:3",
+        "D8:7"
+      ],
+      "effective_ids": [
+        "mem_92bf538dd3465cc7a916",
+        "mem_976ad61284f46a7f02ac",
+        "mem_d95233b8a848c7a669a2",
+        "mem_6725ca1c55d4a8b8ee61",
+        "mem_6ff9b2c50d3a2a0b6271",
+        "mem_510ce71666e75426fe48",
+        "mem_6138ba3df10986884696",
+        "mem_baae26bcafcea725ccce",
+        "mem_199e5f2356be251b2d10",
+        "mem_0ddf55cd514232975af7"
+      ],
+      "predicted_pairs": [],
+      "decisions": {
+        "mem_92bf538dd3465cc7a916": "RETRIEVED_UNRESOLVED",
+        "mem_976ad61284f46a7f02ac": "RETRIEVED_UNRESOLVED",
+        "mem_d95233b8a848c7a669a2": "RETRIEVED_UNRESOLVED",
+        "mem_6725ca1c55d4a8b8ee61": "RETRIEVED_UNRESOLVED",
+        "mem_6ff9b2c50d3a2a0b6271": "RETRIEVED_UNRESOLVED",
+        "mem_510ce71666e75426fe48": "RETRIEVED_UNRESOLVED",
+        "mem_6138ba3df10986884696": "RETRIEVED_UNRESOLVED",
+        "mem_baae26bcafcea725ccce": "RETRIEVED_UNRESOLVED",
+        "mem_199e5f2356be251b2d10": "RETRIEVED_UNRESOLVED",
+        "mem_0ddf55cd514232975af7": "RETRIEVED_UNRESOLVED"
+      },
+      "context_sha256": "441712be3e9dbad9e37a69998b83d8c9227f32859895eab9a2fed73c8e024c4e",
+      "context_chars": 858,
+      "elapsed_seconds": 0.08266049999656389,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "dynamic": {
+      "question_id": "conv-43-qa-001",
+      "conversation_id": "conv-43",
+      "question": "What are John's goals for his career that are not related to his basketball skills?",
+      "method": "dynamic_vector",
+      "k": 10,
+      "as_of": "2024-01-12T13:41:00",
+      "answer": "Cannot determine reliably from the available evidence.",
+      "answer_status": "uncertain",
+      "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+      "model_detail": {
+        "answer": "Cannot determine reliably from the available evidence.",
+        "windows": 0,
+        "policy": "dynamic resolver abstention"
+      },
+      "candidate_turns": [
+        "D11:15",
+        "D11:17",
+        "D16:10",
+        "D19:10",
+        "D19:8",
+        "D6:13",
+        "D6:14",
+        "D7:3",
+        "D8:7"
+      ],
+      "candidate_memory_ids": [
+        "mem_92bf538dd3465cc7a916",
+        "mem_976ad61284f46a7f02ac",
+        "mem_d95233b8a848c7a669a2",
+        "mem_6725ca1c55d4a8b8ee61",
+        "mem_6ff9b2c50d3a2a0b6271",
+        "mem_510ce71666e75426fe48",
+        "mem_6138ba3df10986884696",
+        "mem_baae26bcafcea725ccce",
+        "mem_199e5f2356be251b2d10",
+        "mem_0ddf55cd514232975af7"
+      ],
+      "effective_turns": [
+        "D11:15",
+        "D11:17",
+        "D16:10",
+        "D19:10",
+        "D19:8",
+        "D6:13",
+        "D6:14",
+        "D7:3",
+        "D8:7"
+      ],
+      "effective_ids": [
+        "mem_92bf538dd3465cc7a916",
+        "mem_976ad61284f46a7f02ac",
+        "mem_d95233b8a848c7a669a2",
+        "mem_6725ca1c55d4a8b8ee61",
+        "mem_6ff9b2c50d3a2a0b6271",
+        "mem_510ce71666e75426fe48",
+        "mem_6138ba3df10986884696",
+        "mem_199e5f2356be251b2d10",
+        "mem_0ddf55cd514232975af7"
+      ],
+      "predicted_pairs": [
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D7:3",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D8:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D11:15",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D11:17",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D19:8",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D6:13",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D7:3",
+          "to_turn": "D8:7",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D7:3",
+          "to_turn": "D11:15",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D7:3",
+          "to_turn": "D11:17",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D7:3",
+          "to_turn": "D19:8",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D7:3",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D8:7",
+          "to_turn": "D11:15",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D8:7",
+          "to_turn": "D11:17",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D8:7",
+          "to_turn": "D19:8",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D8:7",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D11:15",
+          "to_turn": "D11:17",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D11:15",
+          "to_turn": "D19:8",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D11:15",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D11:17",
+          "to_turn": "D19:8",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D11:17",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        },
+        {
+          "from_turn": "D19:8",
+          "to_turn": "D19:10",
+          "label": "RETAIN"
+        }
+      ],
+      "decisions": {
+        "mem_92bf538dd3465cc7a916": "EFFECTIVE",
+        "mem_976ad61284f46a7f02ac": "EFFECTIVE",
+        "mem_d95233b8a848c7a669a2": "EFFECTIVE",
+        "mem_6725ca1c55d4a8b8ee61": "EFFECTIVE",
+        "mem_6ff9b2c50d3a2a0b6271": "EFFECTIVE",
+        "mem_510ce71666e75426fe48": "EFFECTIVE",
+        "mem_6138ba3df10986884696": "EFFECTIVE",
+        "mem_baae26bcafcea725ccce": "UNCERTAIN_PLAN",
+        "mem_199e5f2356be251b2d10": "EFFECTIVE",
+        "mem_0ddf55cd514232975af7": "EFFECTIVE"
+      },
+      "context_sha256": "9ebe66f4d8c43e7346349e751978f2595ac2b0bf43117e6a64e33272d075da70",
+      "context_chars": 780,
+      "elapsed_seconds": 0.016280099996947683,
+      "run_kind": "project-defined-real-locomo"
+    },
+    "vector_metrics": {
+      "question_id": "conv-43-qa-001",
+      "qa_f1": 0.14285714285714285,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.08266049999656389
+    }
+  }
+]

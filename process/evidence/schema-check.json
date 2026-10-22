@@ -1,0 +1,20 @@
+{
+  "validator": "jsonschema 4.26.0 / Draft 2020-12",
+  "result": "passed",
+  "files": [
+    {
+      "file": "memory.synthetic.json",
+      "memories": 12,
+      "schema_valid": true,
+      "unique_ids": true,
+      "source_text_matches": true
+    },
+    {
+      "file": "memory.locomo-six.json",
+      "memories": 10207,
+      "schema_valid": true,
+      "unique_ids": true,
+      "source_text_matches": true
+    }
+  ]
+}

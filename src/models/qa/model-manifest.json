@@ -1,0 +1,33 @@
+{
+  "repo": "Xenova/distilbert-base-cased-distilled-squad",
+  "revision": "bdbb0a5e9c617c3c7ea9f3cbaf2be3ad871bcd7d",
+  "files": [
+    {
+      "path": "config.json",
+      "bytes": 569,
+      "sha256": "7fb86e3e72b743b46c4aae43933e0e8cd5b5691e2a4884c795a68845f56f2e99"
+    },
+    {
+      "path": "tokenizer.json",
+      "bytes": 668923,
+      "sha256": "343989712a36cd8b253efeaf8baf6a08b9d2583f78e395e83832e8ee9f8d8ee1"
+    },
+    {
+      "path": "tokenizer_config.json",
+      "bytes": 321,
+      "sha256": "90f2948be0167107e7663ad93ad5b83066bb4eb8431e1bfcbef4921f5fdd039e"
+    },
+    {
+      "path": "onnx/model_quantized.onnx",
+      "bytes": 65811627,
+      "sha256": "fb134f63a53c22ce070ccaedd3a299b57ed546e71ab391579e418e8d0bd69ee6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1187,
+      "sha256": "fc6818ceabb3b47797c8fb502dda0842dd04017b025f6575b3ff5c373d72d906"
+    }
+  ],
+  "source": "https://huggingface.co/Xenova/distilbert-base-cased-distilled-squad",
+  "license": null
+}

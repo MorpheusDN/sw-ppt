@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "engine_version": "0.5.1-locomo-onnx",
+  "memories": [
+    {
+      "memory_id": "mem_3b61b077424e49d350fb",
+      "conversation_id": "synthetic-adoption",
+      "content": "I am researching adoption agencies.",
+      "entity": "Alice",
+      "attribute": "adoption_status",
+      "value": "researching",
+      "session_time": "2023-05-01T10:00:00",
+      "event_time": "2023-05-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:1"
+        ],
+        "text": "I am researching adoption agencies."
+      }
+    },
+    {
+      "memory_id": "mem_9b002d01f22c6edd5550",
+      "conversation_id": "synthetic-adoption",
+      "content": "I live in Boston.",
+      "entity": "Alice",
+      "attribute": "residence",
+      "value": "Boston",
+      "session_time": "2023-05-01T10:00:00",
+      "event_time": "2023-05-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:2"
+        ],
+        "text": "I live in Boston."
+      }
+    },
+    {
+      "memory_id": "mem_e4616d700c7dfa1fea88",
+      "conversation_id": "synthetic-adoption",
+      "content": "I live in Paris.",
+      "entity": "Bob",
+      "attribute": "residence",
+      "value": "Paris",
+      "session_time": "2023-05-01T10:00:00",
+      "event_time": "2023-05-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:3"
+        ],
+        "text": "I live in Paris."
+      }
+    },
+    {
+      "memory_id": "mem_ff7aa0e2662274f289de",
+      "conversation_id": "synthetic-adoption",
+      "content": "I enjoy swimming.",
+      "entity": "Alice",
+      "attribute": "hobby",
+      "value": "swimming",
+      "session_time": "2023-05-01T10:00:00",
+      "event_time": "2023-05-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:4"
+        ],
+        "text": "I enjoy swimming."
+      }
+    },
+    {
+      "memory_id": "mem_94f91aba60d1d9ccbdbf",
+      "conversation_id": "synthetic-adoption",
+      "content": "I applied to adoption agencies.",
+      "entity": "Alice",
+      "attribute": "adoption_status",
+      "value": "applied",
+      "session_time": "2023-07-01T10:00:00",
+      "event_time": "2023-07-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 2,
+        "turns": [
+          "D2:1"
+        ],
+        "text": "I applied to adoption agencies."
+      }
+    },
+    {
+      "memory_id": "mem_f1609bbb3e9d953fb350",
+      "conversation_id": "synthetic-adoption",
+      "content": "I moved to Seattle.",
+      "entity": "Alice",
+      "attribute": "residence",
+      "value": "Seattle",
+      "session_time": "2023-07-01T10:00:00",
+      "event_time": "2023-07-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 2,
+        "turns": [
+          "D2:2"
+        ],
+        "text": "I moved to Seattle."
+      }
+    },
+    {
+      "memory_id": "mem_f4c3074c8496165e1e22",
+      "conversation_id": "synthetic-adoption",
+      "content": "I enjoy pottery.",
+      "entity": "Alice",
+      "attribute": "hobby",
+      "value": "pottery",
+      "session_time": "2023-07-01T10:00:00",
+      "event_time": "2023-07-01T10:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 2,
+        "turns": [
+          "D2:3"
+        ],
+        "text": "I enjoy pottery."
+      }
+    },
+    {
+      "memory_id": "mem_aa2363533552780545b2",
+      "conversation_id": "synthetic-adoption",
+      "content": "I passed the adoption agency interviews last Friday!",
+      "entity": "Alice",
+      "attribute": "adoption_status",
+      "value": "interviews_passed",
+      "session_time": "2023-10-22T09:55:00",
+      "event_time": "2023-10-20T00:00:00",
+      "time_expression": "last friday",
+      "time_basis": "event",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 3,
+        "turns": [
+          "D3:1"
+        ],
+        "text": "I passed the adoption agency interviews last Friday!"
+      }
+    },
+    {
+      "memory_id": "mem_def3fc35c4ebec1dd04d",
+      "conversation_id": "synthetic-adoption",
+      "content": "I live in London.",
+      "entity": "Bob",
+      "attribute": "residence",
+      "value": "London",
+      "session_time": "2023-10-22T09:55:00",
+      "event_time": "2023-10-22T09:55:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 3,
+        "turns": [
+          "D3:2"
+        ],
+        "text": "I live in London."
+      }
+    },
+    {
+      "memory_id": "mem_46d0f542e61522da8719",
+      "conversation_id": "synthetic-conflict",
+      "content": "I work at DoorDash.",
+      "entity": "Dana",
+      "attribute": "employment:doordash",
+      "value": "working",
+      "session_time": "2023-08-01T09:00:00",
+      "event_time": "2023-08-01T09:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:1"
+        ],
+        "text": "I work at DoorDash."
+      }
+    },
+    {
+      "memory_id": "mem_2c1eb4e3418a046f986c",
+      "conversation_id": "synthetic-conflict",
+      "content": "I lost my job at DoorDash.",
+      "entity": "Dana",
+      "attribute": "employment:doordash",
+      "value": "left",
+      "session_time": "2023-08-01T09:00:00",
+      "event_time": "2023-08-01T09:00:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 1,
+        "turns": [
+          "D1:2"
+        ],
+        "text": "I lost my job at DoorDash."
+      }
+    },
+    {
+      "memory_id": "mem_0172c476e2a258dd7bb3",
+      "conversation_id": "synthetic-conflict",
+      "content": "I live in Dublin.",
+      "entity": "Dana",
+      "attribute": "residence",
+      "value": "Dublin",
+      "session_time": null,
+      "event_time": null,
+      "time_expression": null,
+      "time_basis": "unknown",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 2,
+        "turns": [
+          "D2:1"
+        ],
+        "text": "I live in Dublin."
+      }
+    }
+  ]
+}

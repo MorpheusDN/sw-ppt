@@ -1,0 +1,54 @@
+{
+  "edition": "2026-10-19 repository integration",
+  "formal_course_experiment_run": false,
+  "original_files_preserved": 9,
+  "pdfs": [
+    {
+      "file": "docs/m3/M3-SRS.pdf",
+      "pages": 5,
+      "bytes": 170496
+    },
+    {
+      "file": "docs/m4/M4-中期展示.pdf",
+      "pages": 10,
+      "bytes": 1103621
+    },
+    {
+      "file": "docs/m4/M4-设计与测试报告.pdf",
+      "pages": 5,
+      "bytes": 159023
+    },
+    {
+      "file": "docs/m5/M5-最终展示-待课程实验.pdf",
+      "pages": 10,
+      "bytes": 1033106
+    },
+    {
+      "file": "docs/m5/M5-最终报告-当前验证版.pdf",
+      "pages": 5,
+      "bytes": 157521
+    }
+  ],
+  "pptx": [
+    {
+      "file": "docs/m4/M4-中期展示.pptx",
+      "slides": 10,
+      "notes": 10,
+      "native_tables": 7
+    },
+    {
+      "file": "docs/m5/M5-最终展示-待课程实验.pptx",
+      "slides": 10,
+      "notes": 10,
+      "native_tables": 5
+    }
+  ],
+  "code_and_results_match": true,
+  "tests_passed": 41,
+  "react_echarts_browser_check": true,
+  "visual_review": {
+    "report_pages": 15,
+    "slide_pages": 20,
+    "method": "rendered PNGs reviewed; no PowerPoint playback claim"
+  }
+}

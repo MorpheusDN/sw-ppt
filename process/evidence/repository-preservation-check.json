@@ -1,0 +1,59 @@
+{
+  "preserved": 9,
+  "files": [
+    {
+      "original": "docs/m1/milestone1.md",
+      "preserved_at": "docs/m1/milestone1.md",
+      "sha256": "6b283c3d99ad1f908a2a072d554b85130335caf3c13c23a0856ab684d1eb44c1",
+      "unchanged": true
+    },
+    {
+      "original": "docs/m2/milestone-2-vision-scope.md",
+      "preserved_at": "docs/m2/milestone-2-vision-scope.md",
+      "sha256": "018bca2ecfa11839b08c95d55967f4d3b453179913cae241c9f11c2baf0fe87f",
+      "unchanged": true
+    },
+    {
+      "original": "process/minutes/2026-09-26-weekly.md",
+      "preserved_at": "process/minutes/2026-09-26-weekly.md",
+      "sha256": "a1af443bc071433c71cb3d2f2237e7934018ebcc875a80ffa9d6a260d83eb0d8",
+      "unchanged": true
+    },
+    {
+      "original": "process/minutes/2026-10-03-weekly.md",
+      "preserved_at": "process/minutes/2026-10-03-weekly.md",
+      "sha256": "157dcc453b1432640aa6ba2a79439a4c1e5b4ee9318e45f1559fa3db86c1c3a1",
+      "unchanged": true
+    },
+    {
+      "original": "process/plans/milestone-timeline.md",
+      "preserved_at": "process/archive/repository-original/process/plans/milestone-timeline.md",
+      "sha256": "1c75d7f6dd9e610431be2f42f772eeca545b35de084962b3e32d129527d02374",
+      "unchanged": true
+    },
+    {
+      "original": "process/plans/weekly-action-items.md",
+      "preserved_at": "process/archive/repository-original/process/plans/weekly-action-items.md",
+      "sha256": "12e4dc140fe973d2fac310917eae1e13b181dd117873456df3330f9dfdd35ce8",
+      "unchanged": true
+    },
+    {
+      "original": "process/screenshots/project-board-m2.png",
+      "preserved_at": "process/screenshots/project-board-m2.png",
+      "sha256": "2a2874819efe4c6beaea241a5190e434f833b5efa2da3398022f58d77212536a",
+      "unchanged": true
+    },
+    {
+      "original": "process/templates/meeting-minutes-template.md",
+      "preserved_at": "process/templates/meeting-minutes-template.md",
+      "sha256": "684722f089940b3060db5fe90fae17b6ba57b93bac8f675147ac110546d7c2e3",
+      "unchanged": true
+    },
+    {
+      "original": "README.md",
+      "preserved_at": "process/archive/repository-original/README.md",
+      "sha256": "9adbbfdb3bdcae3fdb36a294b379e108815f53ecefe3b007d483029a93dde657",
+      "unchanged": true
+    }
+  ]
+}

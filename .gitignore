@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+/tmp/
+
+# Local runtime and model weights (restore with src/download_models.py)
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+.venv/
+.env
+src/models/**/*.onnx
+src/data/imported.json
+src/data/imported.tmp
+src/results/local-*

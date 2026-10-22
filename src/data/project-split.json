@@ -1,0 +1,28 @@
+{
+  "kind": "project-defined-holdout",
+  "confirmed_by_ta": false,
+  "dev": [
+    "conv-26",
+    "conv-30",
+    "conv-41",
+    "conv-42"
+  ],
+  "test": [
+    "conv-43",
+    "conv-44"
+  ],
+  "remaining": [
+    "conv-47",
+    "conv-48",
+    "conv-49",
+    "conv-50"
+  ],
+  "selection_rule": "first six in pinned upstream order; first four dev, next two holdout",
+  "limitation": "Some source turns were inspected while preparing examples. This is not a blind course test.",
+  "upstream_sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4",
+  "selection_authority": "team",
+  "selection_permission_confirmed_by_user": true,
+  "clarification_date": "2026-10-20",
+  "course_assignment_required": false,
+  "clarification": "User confirmed that the six conversations and the 4+2 split are chosen by the team."
+}

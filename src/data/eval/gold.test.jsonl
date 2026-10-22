@@ -1,0 +1,16 @@
+{"question_id": "conv-43-qa-042", "answers": ["Soup, a slow cooker meal, and honey garlic chicken with roasted veg."], "evidence": ["D10:4", "D15:30", "D15:31", "D15:32"], "category": 1, "relations": []}
+{"question_id": "conv-43-qa-001", "answers": ["get endorsements, build his brand, do charity work"], "evidence": ["D6:15", "D11:17"], "category": 1, "relations": []}
+{"question_id": "conv-43-qa-020", "answers": ["Seattle"], "evidence": ["D3:19", "D5:2", "D6:1", "D6:3"], "category": 2, "relations": []}
+{"question_id": "conv-43-qa-012", "answers": ["2018"], "evidence": ["D3:27"], "category": 2, "relations": []}
+{"question_id": "conv-43-qa-032", "answers": ["California or Florida"], "evidence": ["D10:9"], "category": 3, "relations": []}
+{"question_id": "conv-43-qa-015", "answers": ["likely John's friend, colleague or family"], "evidence": ["D4:8"], "category": 3, "relations": []}
+{"question_id": "conv-43-qa-102", "answers": ["It's got so much to check out - the culture, food - you won't regret it."], "evidence": ["D9:10"], "category": 4, "relations": []}
+{"question_id": "conv-43-qa-131", "answers": ["a basketball signed by his favorite player"], "evidence": ["D16:7"], "category": 4, "relations": []}
+{"question_id": "conv-44-qa-056", "answers": ["No"], "evidence": ["D5:5", "D28:12"], "category": 1, "relations": []}
+{"question_id": "conv-44-qa-050", "answers": ["Grooming"], "evidence": ["D16:2", "D17:4"], "category": 1, "relations": []}
+{"question_id": "conv-44-qa-058", "answers": ["sushi"], "evidence": ["D25:14"], "category": 2, "relations": []}
+{"question_id": "conv-44-qa-045", "answers": ["three"], "evidence": ["D12:1", "D24:2", "D28:6"], "category": 2, "relations": []}
+{"question_id": "conv-44-qa-020", "answers": ["chicken"], "evidence": ["D10:13", "D10:23"], "category": 3, "relations": []}
+{"question_id": "conv-44-qa-053", "answers": ["Park ranger or a similar position working for the National Park Services."], "evidence": ["D2:18", "D3:1", "D5:7", "D8:27"], "category": 3, "relations": []}
+{"question_id": "conv-44-qa-089", "answers": ["Daily brushing, regular baths, nail trims, and lots of love"], "evidence": ["D17:4"], "category": 4, "relations": []}
+{"question_id": "conv-44-qa-101", "answers": ["Jewelry made from recycled objects"], "evidence": ["D22:5"], "category": 4, "relations": []}

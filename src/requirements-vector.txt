@@ -1,0 +1,2 @@
+# Optional. The zero-dependency offline demo does not need these packages.
+sentence-transformers>=3.0,<6.0

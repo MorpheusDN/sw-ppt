@@ -1,0 +1,87 @@
+{
+  "run_kind": "project-defined-real-locomo",
+  "engine_version": "0.5.0-locomo-onnx",
+  "method": "full_text",
+  "k": 10,
+  "seed": 23,
+  "inference": "CPUExecutionProvider",
+  "python": "3.12.14",
+  "start_utc": "2026-10-19T16:28:10.233403+00:00",
+  "dataset_sha256": "e25b06cfff329b426ad35b43f68e21685fbcd08193e59b83ffcacc99c7ba4ce6",
+  "questions_sha256": "e99fe1b0ccea41a6e18ccae7273a012d8725fb87897c458fd378c3041ee74a0c",
+  "code_sha256": {
+    "memory_engine.py": "31c7c1282b75232572319976f526ca65f6b5f61be4c326ae81d476021626fdd7",
+    "local_models.py": "49addc3703219fbe5018948e6488de1a4ac352b1558698ec1b9057591ae753c1",
+    "benchmark.py": "b2a4e359bb6ab2abe664c49f07cf97b1e82372e5d77f888b132554badd7c6db8"
+  },
+  "embedding": {
+    "repo": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "files": [
+      {
+        "path": "config.json",
+        "bytes": 650,
+        "sha256": "7135149f7cffa1a573466c6e4d8423ed73b62fd2332c575bf738a0d033f70df7"
+      },
+      {
+        "path": "tokenizer.json",
+        "bytes": 711661,
+        "sha256": "da0e79933b9ed51798a3ae27893d3c5fa4a201126cef75586296df9b4d2c62a0"
+      },
+      {
+        "path": "tokenizer_config.json",
+        "bytes": 366,
+        "sha256": "9261e7d79b44c8195c1cada2b453e55b00aeb81e907a6664974b4d7776172ab3"
+      },
+      {
+        "path": "onnx/model_quantized.onnx",
+        "bytes": 22972370,
+        "sha256": "afdb6f1a0e45b715d0bb9b11772f032c399babd23bfc31fed1c170afc848bdb1"
+      },
+      {
+        "path": "README.md",
+        "bytes": 1767,
+        "sha256": "63ea99bf681a2e9eda4f6a537d5ed8fda95d1677111656da37e9cfd080c3af02"
+      }
+    ],
+    "source": "https://huggingface.co/Xenova/all-MiniLM-L6-v2",
+    "license": "apache-2.0"
+  },
+  "qa": {
+    "repo": "Xenova/distilbert-base-cased-distilled-squad",
+    "revision": "bdbb0a5e9c617c3c7ea9f3cbaf2be3ad871bcd7d",
+    "files": [
+      {
+        "path": "config.json",
+        "bytes": 569,
+        "sha256": "7fb86e3e72b743b46c4aae43933e0e8cd5b5691e2a4884c795a68845f56f2e99"
+      },
+      {
+        "path": "tokenizer.json",
+        "bytes": 668923,
+        "sha256": "343989712a36cd8b253efeaf8baf6a08b9d2583f78e395e83832e8ee9f8d8ee1"
+      },
+      {
+        "path": "tokenizer_config.json",
+        "bytes": 321,
+        "sha256": "90f2948be0167107e7663ad93ad5b83066bb4eb8431e1bfcbef4921f5fdd039e"
+      },
+      {
+        "path": "onnx/model_quantized.onnx",
+        "bytes": 65811627,
+        "sha256": "fb134f63a53c22ce070ccaedd3a299b57ed546e71ab391579e418e8d0bd69ee6"
+      },
+      {
+        "path": "README.md",
+        "bytes": 1187,
+        "sha256": "fc6818ceabb3b47797c8fb502dda0842dd04017b025f6575b3ff5c373d72d906"
+      }
+    ],
+    "source": "https://huggingface.co/Xenova/distilbert-base-cased-distilled-squad",
+    "license": null
+  },
+  "full_text_policy": "complete original history through all overlapping 384-token windows, stride=96",
+  "shared_answerer": "same quantized DistilBERT span extractor, max span 30 tokens, no gold input",
+  "official_course_split": false,
+  "question_count": 16
+}

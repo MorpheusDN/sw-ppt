@@ -1,0 +1,12 @@
+{"question_id": "project-dynamic-01", "conversation_id": "conv-26", "question": "What is Caroline's adoption status at the end of the conversation?", "entity": "Caroline", "attribute": "adoption_status"}
+{"question_id": "project-dynamic-02", "conversation_id": "conv-26", "question": "As of 2023-06-01, what was Caroline researching?", "entity": "Caroline", "attribute": "adoption_status", "as_of": "2023-06-01T23:59:59"}
+{"question_id": "project-dynamic-03", "conversation_id": "conv-30", "question": "Which company did Gina lose her job at?", "entity": "Gina"}
+{"question_id": "project-dynamic-04", "conversation_id": "conv-30", "question": "Did Jon discuss contemporary dance as his top pick and running his own studio?", "entity": "Jon"}
+{"question_id": "project-dynamic-05", "conversation_id": "conv-41", "question": "What was the name of Maria's puppy?", "entity": "Maria"}
+{"question_id": "project-dynamic-06", "conversation_id": "conv-41", "question": "What activities did Maria mention doing with her friends?", "entity": "Maria"}
+{"question_id": "project-dynamic-07", "conversation_id": "conv-42", "question": "What pets did Nate discuss, including turtles and an adopted pet?", "entity": "Nate"}
+{"question_id": "project-dynamic-08", "conversation_id": "conv-42", "question": "What did Joanna receive from a major company after finishing her screenplay?"}
+{"question_id": "project-dynamic-09", "conversation_id": "conv-43", "question": "What was John's highest basketball score that he reported?", "entity": "John"}
+{"question_id": "project-dynamic-10", "conversation_id": "conv-43", "question": "What sporting activities did John discuss, including his points and surfing?", "entity": "John"}
+{"question_id": "project-dynamic-11", "conversation_id": "conv-44", "question": "What is Andrew's pet ownership status at the end of the conversation?", "entity": "Andrew", "attribute": "pet_ownership"}
+{"question_id": "project-dynamic-12", "conversation_id": "conv-44", "question": "As of 2023-03-28, did Andrew have any pets?", "entity": "Andrew", "attribute": "pet_ownership", "as_of": "2023-03-28T23:59:59"}

@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-10-19T14:42:13.666Z",
+  "checks": [
+    "current adoption status",
+    "historical residence",
+    "conflict abstention",
+    "mobile page width fits",
+    "empty query rejected by browser required field"
+  ],
+  "page_errors": [],
+  "mobile_overflow": false,
+  "frontend": {
+    "react_root": true,
+    "echarts_svg": true,
+    "graph_click_source": true,
+    "empty_input_blocked": true
+  },
+  "external_requests": []
+}

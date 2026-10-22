@@ -1,0 +1,145 @@
+{
+  "base_commit": "81b3b618f24238a9c172b43467a6d0a720236661",
+  "original_files": 20,
+  "files": [
+    {
+      "path": ".gitignore",
+      "before_sha256": "be508ade80bcd142559f06b28ebfb876bf0b9b1c5ade47d56a0165c957754e71",
+      "after_sha256": "c234d25fe385d2db15ea37b3098415bdd11657021c9a8378f448cc37c96578cf",
+      "unchanged": false
+    },
+    {
+      "path": "docs/m1/milestone1.md",
+      "before_sha256": "c8f8c7c4814ce4263efdae397af596d01057ce8caf120bc568eb8e7455acdc8e",
+      "after_sha256": "c8f8c7c4814ce4263efdae397af596d01057ce8caf120bc568eb8e7455acdc8e",
+      "unchanged": true
+    },
+    {
+      "path": "docs/m2/milestone-2-vision-scope.md",
+      "before_sha256": "96c3cee77c320021cbca326203198d29f29199dbed23421f5fd651d7c21bb02d",
+      "after_sha256": "96c3cee77c320021cbca326203198d29f29199dbed23421f5fd651d7c21bb02d",
+      "unchanged": true
+    },
+    {
+      "path": "docs/m3/build_srs.py",
+      "before_sha256": "4e7d3dca28a089d0087adc0d79dce6a9b0fb31a5cf876d87f2dbf6d0b92334df",
+      "after_sha256": "4e7d3dca28a089d0087adc0d79dce6a9b0fb31a5cf876d87f2dbf6d0b92334df",
+      "unchanged": true
+    },
+    {
+      "path": "docs/m3/milestone-3-srs.md",
+      "before_sha256": "178d220cff693150b3c793d22302a8588df8d7e04f39e07e71e0de0d448db86b",
+      "after_sha256": "178d220cff693150b3c793d22302a8588df8d7e04f39e07e71e0de0d448db86b",
+      "unchanged": true
+    },
+    {
+      "path": "docs/m3/package_m3.py",
+      "before_sha256": "4e6fcb24f270d6d91a988d3d40684f6eb4edb130e21d9404a640fd7ed964f448",
+      "after_sha256": "4e6fcb24f270d6d91a988d3d40684f6eb4edb130e21d9404a640fd7ed964f448",
+      "unchanged": true
+    },
+    {
+      "path": "docs/m3/README.md",
+      "before_sha256": "d7b42c778ef58ac8159600012f84ec31929ae3e648f57eb58dcdbf7386a593d8",
+      "after_sha256": "5a8ab59034941502b20ee35b1ddc026c2d1772a550da575b8b5a93a87471e1db",
+      "unchanged": false
+    },
+    {
+      "path": "docs/m3/requirements.txt",
+      "before_sha256": "034e8567d5b0ae49488958c5b71d948508ae0f4f50a14e2bad62a2e3d1d4241b",
+      "after_sha256": "034e8567d5b0ae49488958c5b71d948508ae0f4f50a14e2bad62a2e3d1d4241b",
+      "unchanged": true
+    },
+    {
+      "path": "output/pdf/PROJECT-MILESTONE3-2-RISC-V.pdf",
+      "before_sha256": "bcdc094c53a5c5d0c02e83958fe1a2a97ab6ed0371c62052144361d21356b17f",
+      "after_sha256": "bcdc094c53a5c5d0c02e83958fe1a2a97ab6ed0371c62052144361d21356b17f",
+      "unchanged": true
+    },
+    {
+      "path": "output/PROJECT-MILESTONE3-2-RISC-V.zip",
+      "before_sha256": "6252332e551ce46c1239f1f81be3f33f6f8dfefb4a891690970503cae152abf0",
+      "after_sha256": "6252332e551ce46c1239f1f81be3f33f6f8dfefb4a891690970503cae152abf0",
+      "unchanged": true
+    },
+    {
+      "path": "process/minutes/2026-09-26-weekly.md",
+      "before_sha256": "5c00a634b420affd3ebbc1babbd54d80959c70e206cd06bef6c428d0bba827fb",
+      "after_sha256": "5c00a634b420affd3ebbc1babbd54d80959c70e206cd06bef6c428d0bba827fb",
+      "unchanged": true
+    },
+    {
+      "path": "process/minutes/2026-10-03-weekly.md",
+      "before_sha256": "d8b413caa976d74e9964890c2ee2a6dd02254689835fb1e71fe23114a36a0e55",
+      "after_sha256": "d8b413caa976d74e9964890c2ee2a6dd02254689835fb1e71fe23114a36a0e55",
+      "unchanged": true
+    },
+    {
+      "path": "process/plans/m3-iterations.md",
+      "before_sha256": "34e7817a45b9795ee3458cd9f639935e0dfe104500a40f1b14f633764d1aaee4",
+      "after_sha256": "34e7817a45b9795ee3458cd9f639935e0dfe104500a40f1b14f633764d1aaee4",
+      "unchanged": true
+    },
+    {
+      "path": "process/plans/milestone-timeline.md",
+      "before_sha256": "5964d1a07a2bc0657c24269605e49a4ef7818f759dc6b12b9339063263ff54e4",
+      "after_sha256": "5964d1a07a2bc0657c24269605e49a4ef7818f759dc6b12b9339063263ff54e4",
+      "unchanged": true
+    },
+    {
+      "path": "process/plans/weekly-action-items.md",
+      "before_sha256": "6c3a8b0a3946b8cb0b532ae5c9f32e3abd4d566efe2da708d5e34987f0ff263c",
+      "after_sha256": "6c3a8b0a3946b8cb0b532ae5c9f32e3abd4d566efe2da708d5e34987f0ff263c",
+      "unchanged": true
+    },
+    {
+      "path": "process/reviews/2026-10-19-m3-review.md",
+      "before_sha256": "720272c684f0bb7b7037f04c61093845053409368ec8118c6f95c012ee9bcb32",
+      "after_sha256": "720272c684f0bb7b7037f04c61093845053409368ec8118c6f95c012ee9bcb32",
+      "unchanged": true
+    },
+    {
+      "path": "process/reviews/2026-10-20-m3-finalization.md",
+      "before_sha256": "d85cb28cdfed65e1cfa4a3d6b1d46398a559e8b719ad792ef0f9fa87d002265d",
+      "after_sha256": "d85cb28cdfed65e1cfa4a3d6b1d46398a559e8b719ad792ef0f9fa87d002265d",
+      "unchanged": true
+    },
+    {
+      "path": "process/screenshots/project-board-m2.png",
+      "before_sha256": "2a2874819efe4c6beaea241a5190e434f833b5efa2da3398022f58d77212536a",
+      "after_sha256": "2a2874819efe4c6beaea241a5190e434f833b5efa2da3398022f58d77212536a",
+      "unchanged": true
+    },
+    {
+      "path": "process/templates/meeting-minutes-template.md",
+      "before_sha256": "333db1aaaae63b45d22a805fca8355cb73167875423c4a2c080c484a16632a2b",
+      "after_sha256": "333db1aaaae63b45d22a805fca8355cb73167875423c4a2c080c484a16632a2b",
+      "unchanged": true
+    },
+    {
+      "path": "README.md",
+      "before_sha256": "bcb24720c8db5486b18c4ff31ca13078b01e55e1faeaca73564df434eed87608",
+      "after_sha256": "24acfd7609239a5a5164c1c8b9542801019abce4f47c2194e192932ec968d8b0",
+      "unchanged": false
+    }
+  ],
+  "preserved_collisions": [
+    "docs/m1/milestone1.md",
+    "docs/m2/milestone-2-vision-scope.md",
+    "process/minutes/2026-09-26-weekly.md",
+    "process/minutes/2026-10-03-weekly.md",
+    "process/screenshots/project-board-m2.png",
+    "process/templates/meeting-minutes-template.md"
+  ],
+  "renamed_source_plans": [
+    {
+      "source": "process/plans/milestone-timeline.md",
+      "target": "process/plans/m345-implementation-milestone-timeline.md"
+    },
+    {
+      "source": "process/plans/weekly-action-items.md",
+      "target": "process/plans/m345-implementation-weekly-action-items.md"
+    }
+  ],
+  "copied_files": 189
+}

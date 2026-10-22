@@ -1,0 +1,111 @@
+{
+  "query_id": "q_39ca6302a419b0dd",
+  "conversation_id": "conv-26",
+  "question": "What is Caroline's adoption status?",
+  "method": "dynamic_lexical",
+  "as_of": "2023-06-01T23:59:59",
+  "time_reference": "explicit",
+  "scope": {
+    "entity": "Caroline",
+    "attribute": "adoption_status"
+  },
+  "candidates": [
+    {
+      "memory_id": "mem_961d803454ec50ba3861",
+      "conversation_id": "conv-26",
+      "content": "I passed the adoption agency interviews last Friday!",
+      "entity": "Caroline",
+      "attribute": "adoption_status",
+      "value": "interviews_passed",
+      "session_time": "2023-10-22T09:55:00",
+      "event_time": "2023-10-20T00:00:00",
+      "time_expression": "last friday",
+      "time_basis": "event",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 19,
+        "turns": [
+          "D19:1"
+        ],
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family."
+      },
+      "retrieval_score": 0.482446
+    },
+    {
+      "memory_id": "mem_1c154bf4a51c9f228676",
+      "conversation_id": "conv-26",
+      "content": "I took the first step towards becoming a mom - I applied to adoption agencies!",
+      "entity": "Caroline",
+      "attribute": "adoption_status",
+      "value": "applied",
+      "session_time": "2023-08-23T15:31:00",
+      "event_time": "2023-08-23T15:31:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 13,
+        "turns": [
+          "D13:1"
+        ],
+        "text": "Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!"
+      },
+      "retrieval_score": 0.410341
+    },
+    {
+      "memory_id": "mem_00c5e94c36ffa4b2e951",
+      "conversation_id": "conv-26",
+      "content": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+      "entity": "Caroline",
+      "attribute": "adoption_status",
+      "value": "researching",
+      "session_time": "2023-05-25T13:14:00",
+      "event_time": "2023-05-25T13:14:00",
+      "time_expression": null,
+      "time_basis": "utterance",
+      "modality": "assertion",
+      "extraction_method": "rules-v1",
+      "source": {
+        "session": 2,
+        "turns": [
+          "D2:8"
+        ],
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it."
+      },
+      "retrieval_score": 0.356912
+    }
+  ],
+  "relations": [],
+  "decisions": {
+    "mem_961d803454ec50ba3861": "FUTURE",
+    "mem_1c154bf4a51c9f228676": "FUTURE",
+    "mem_00c5e94c36ffa4b2e951": "EFFECTIVE"
+  },
+  "effective_ids": [
+    "mem_00c5e94c36ffa4b2e951"
+  ],
+  "answer": "Researching adoption agencies — it's been a dream to have a family",
+  "answer_status": "answered",
+  "evidence_ids": [
+    "mem_00c5e94c36ffa4b2e951"
+  ],
+  "context": "[D2:8] Caroline: Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+  "answer_mode": "Xenova/distilbert-base-cased-distilled-squad:int8",
+  "engine_version": "0.5.1-locomo-onnx",
+  "warning": "Synthetic/local prototype results are not course benchmark results.",
+  "model_detail": {
+    "answer": "Researching adoption agencies — it's been a dream to have a family",
+    "windows": 1,
+    "covered_context_tokens": 34,
+    "span_start": 17,
+    "span_end": 83,
+    "span_log_probability": -1.810304880142212,
+    "model_id": "Xenova/distilbert-base-cased-distilled-squad:int8",
+    "coverage_policy": "all context windows; no Top-K window selection"
+  },
+  "answer_source_turns": [
+    "D2:8"
+  ]
+}

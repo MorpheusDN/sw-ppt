@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-10-20T22:20:41.941783+08:00",
+  "original_files_checked": 20,
+  "existing_files_changed": [
+    ".gitignore",
+    "docs/m3/README.md",
+    "README.md"
+  ],
+  "formal_m3_source_and_artifacts_unchanged": true,
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "run_from": "src",
+    "passed": 54,
+    "failures": 0,
+    "scope": "GitHub integration checkout; includes real ONNX runtime tests"
+  },
+  "model_metadata_tracked": true,
+  "model_sha256_verified": true,
+  "onnx_weights_tracked": false,
+  "credential_pattern_findings": [],
+  "files_over_50_mib": [],
+  "tracked_file_count_before_this_evidence": 210,
+  "max_tracked_file_bytes": 8050959
+}

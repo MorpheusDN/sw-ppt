@@ -1,0 +1,20 @@
+[
+  {
+    "stage": 3,
+    "files": 71,
+    "zip_bytes": 1374548,
+    "sha256": "03aef7fad0cd6c599d8dd26c87625705e9662c8accff027acd9a06920c946a4f"
+  },
+  {
+    "stage": 4,
+    "files": 195,
+    "zip_bytes": 4615811,
+    "sha256": "8ed4c2fbcecdc93322920948b98bb3b15ca22bc242fe537baf1a7389c09c318a"
+  },
+  {
+    "stage": 5,
+    "files": 200,
+    "zip_bytes": 5222682,
+    "sha256": "16eb2e978e95d45d4f5946defab5c9f6d01b29d4e30f92dcd67d4b00346511ab"
+  }
+]

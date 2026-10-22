@@ -1,0 +1,69 @@
+{
+  "edition": "2026-10-20 real models and evaluation",
+  "formal_course_experiment_run": false,
+  "original_files_preserved": 9,
+  "pdfs": [
+    {
+      "file": "docs/m3/M3-SRS.pdf",
+      "pages": 5,
+      "bytes": 172577
+    },
+    {
+      "file": "docs/m4/M4-中期展示.pdf",
+      "pages": 10,
+      "bytes": 977647
+    },
+    {
+      "file": "docs/m4/M4-设计与测试报告.pdf",
+      "pages": 5,
+      "bytes": 153642
+    },
+    {
+      "file": "docs/m5/M5-最终展示.pdf",
+      "pages": 10,
+      "bytes": 849907
+    },
+    {
+      "file": "docs/m5/M5-最终报告.pdf",
+      "pages": 5,
+      "bytes": 152352
+    }
+  ],
+  "pptx": [
+    {
+      "file": "docs/m4/M4-中期展示.pptx",
+      "slides": 10,
+      "notes": 10,
+      "native_tables": 7
+    },
+    {
+      "file": "docs/m5/M5-最终展示.pptx",
+      "slides": 10,
+      "notes": 10,
+      "native_tables": 5
+    }
+  ],
+  "code_and_results_match": true,
+  "tests_passed": 54,
+  "react_echarts_browser_check": true,
+  "visual_review": {
+    "report_pages": 15,
+    "slide_pages": 20,
+    "method": "rendered PNGs reviewed; no PowerPoint playback claim"
+  },
+  "real_model_runs": 13,
+  "original_data_unchanged": true,
+  "full_text_frozen_source_and_context_verified": true,
+  "real_memories": 10207,
+  "schema_validated": true,
+  "main_qa": {
+    "dev": 30,
+    "holdout": 16,
+    "repeats": 3
+  },
+  "self_built_dynamic": {
+    "questions": 12,
+    "relation_pairs": 10,
+    "accuracy": 0.4
+  }
+}

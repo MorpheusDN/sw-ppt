@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-22",
+  "command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "scope": "fresh-clone local verification; archived evidence is separate",
+  "model_weights_present": false
+}

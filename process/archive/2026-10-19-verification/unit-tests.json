@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-10-19T22:35:24.840258+08:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "command": "python -m unittest discover -s tests -v",
+  "tests_run": 41,
+  "success": true,
+  "groups": {
+    "ApiTests": 5,
+    "BehaviorTests": 30,
+    "MetricTests": 6
+  },
+  "tests": [
+    {
+      "test": "test_engine.ApiTests.test_api_current_and_history",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.ApiTests.test_foreign_origin",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.ApiTests.test_health_and_static",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.ApiTests.test_invalid_import_preserves_state",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.ApiTests.test_path_whitelist",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_ambiguous_historical_query_requires_input",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_bad_timestamp_rejected",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_conflict",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_current_scalar_replacement",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_current_stage",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_default_time_is_corpus_end",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_different_entity",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_distinct_attributes_never_supersede",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_duplicate_turn_rejected",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_empty_question",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_fulltext_keeps_every_turn",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_gold_future_answers_do_not_affect_memory",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_historical_scalar",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_historical_stage",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_iso_question_time",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_json_export_roundtrip",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_k_bounds",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_locomo_adapter_ignores_gold",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_missing_conversation",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_multiple_entity_question",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_no_evidence",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_no_persistent_invalidations",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_plan_not_present_fact",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_relative_weekday_anchored_to_session",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_set_valued_attribute",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_source_integrity",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_stable_unique_ids",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_unknown_time",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_unsupported_relative_time_is_unknown",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.BehaviorTests.test_vector_never_masquerades_as_lexical",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_evidence_split_and_dedup",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_missing_relation_counts_wrong",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_multi_answer_and_empty",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_no_gold_evidence_is_na",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_split_guard",
+      "status": "passed"
+    },
+    {
+      "test": "test_engine.MetricTests.test_token_f1",
+      "status": "passed"
+    }
+  ]
+}

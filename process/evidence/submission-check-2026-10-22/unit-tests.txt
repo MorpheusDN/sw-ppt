@@ -1,0 +1,70 @@
+test_cited_answer_turn_is_from_selected_span (test_completion.LocalModelTests.test_cited_answer_turn_is_from_selected_span) ... skipped 'Install requirements-models.txt to test neural runtime'
+test_embeddings_normalized_and_semantic (test_completion.LocalModelTests.test_embeddings_normalized_and_semantic) ... skipped 'Install requirements-models.txt to test neural runtime'
+test_empty_context_abstains (test_completion.LocalModelTests.test_empty_context_abstains) ... skipped 'Install requirements-models.txt to test neural runtime'
+test_qa_covers_late_context_window (test_completion.LocalModelTests.test_qa_covers_late_context_window) ... skipped 'Install requirements-models.txt to test neural runtime'
+test_qa_extracts_source_span (test_completion.LocalModelTests.test_qa_extracts_source_span) ... skipped 'Install requirements-models.txt to test neural runtime'
+test_all_inference_files_exclude_answers (test_completion.RealDataTests.test_all_inference_files_exclude_answers) ... ok
+test_gold_fields_cannot_change_extraction (test_completion.RealDataTests.test_gold_fields_cannot_change_extraction) ... ok
+test_no_empty_memories_after_sentence_split (test_completion.RealDataTests.test_no_empty_memories_after_sentence_split) ... ok
+test_open_domain_accepts_multi_person_questions (test_completion.RealDataTests.test_open_domain_accepts_multi_person_questions) ... ok
+test_real_adoption_history_excludes_later_stage (test_completion.RealDataTests.test_real_adoption_history_excludes_later_stage) ... ok
+test_real_adoption_progression (test_completion.RealDataTests.test_real_adoption_progression) ... ok
+test_real_six_conversations_and_source_integrity (test_completion.RealDataTests.test_real_six_conversations_and_source_integrity) ... ok
+test_self_split_is_not_claimed_official (test_completion.RealDataTests.test_self_split_is_not_claimed_official) ... ok
+test_api_current_and_history (test_engine.ApiTests.test_api_current_and_history) ... 127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/query HTTP/1.1" 200 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/query HTTP/1.1" 200 -
+ok
+test_foreign_origin (test_engine.ApiTests.test_foreign_origin) ... 127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/query HTTP/1.1" 403 -
+ok
+test_health_and_static (test_engine.ApiTests.test_health_and_static) ... 127.0.0.1 - - [22/Oct/2026 14:23:16] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "GET / HTTP/1.1" 200 -
+ok
+test_invalid_import_preserves_state (test_engine.ApiTests.test_invalid_import_preserves_state) ... 127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/import HTTP/1.1" 400 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/import HTTP/1.1" 400 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/import HTTP/1.1" 400 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "POST /api/import HTTP/1.1" 400 -
+127.0.0.1 - - [22/Oct/2026 14:23:16] "GET /api/conversations HTTP/1.1" 200 -
+ok
+test_path_whitelist (test_engine.ApiTests.test_path_whitelist) ... 127.0.0.1 - - [22/Oct/2026 14:23:16] "GET /../server.py HTTP/1.1" 404 -
+ok
+test_ambiguous_historical_query_requires_input (test_engine.BehaviorTests.test_ambiguous_historical_query_requires_input) ... ok
+test_bad_timestamp_rejected (test_engine.BehaviorTests.test_bad_timestamp_rejected) ... ok
+test_conflict (test_engine.BehaviorTests.test_conflict) ... ok
+test_current_scalar_replacement (test_engine.BehaviorTests.test_current_scalar_replacement) ... ok
+test_current_stage (test_engine.BehaviorTests.test_current_stage) ... ok
+test_default_time_is_corpus_end (test_engine.BehaviorTests.test_default_time_is_corpus_end) ... ok
+test_different_entity (test_engine.BehaviorTests.test_different_entity) ... ok
+test_distinct_attributes_never_supersede (test_engine.BehaviorTests.test_distinct_attributes_never_supersede) ... ok
+test_duplicate_turn_rejected (test_engine.BehaviorTests.test_duplicate_turn_rejected) ... ok
+test_empty_question (test_engine.BehaviorTests.test_empty_question) ... ok
+test_fulltext_keeps_every_turn (test_engine.BehaviorTests.test_fulltext_keeps_every_turn) ... ok
+test_gold_future_answers_do_not_affect_memory (test_engine.BehaviorTests.test_gold_future_answers_do_not_affect_memory) ... ok
+test_historical_scalar (test_engine.BehaviorTests.test_historical_scalar) ... ok
+test_historical_stage (test_engine.BehaviorTests.test_historical_stage) ... ok
+test_iso_question_time (test_engine.BehaviorTests.test_iso_question_time) ... ok
+test_json_export_roundtrip (test_engine.BehaviorTests.test_json_export_roundtrip) ... ok
+test_k_bounds (test_engine.BehaviorTests.test_k_bounds) ... ok
+test_locomo_adapter_ignores_gold (test_engine.BehaviorTests.test_locomo_adapter_ignores_gold) ... ok
+test_missing_conversation (test_engine.BehaviorTests.test_missing_conversation) ... ok
+test_multiple_entity_question (test_engine.BehaviorTests.test_multiple_entity_question) ... ok
+test_no_evidence (test_engine.BehaviorTests.test_no_evidence) ... ok
+test_no_persistent_invalidations (test_engine.BehaviorTests.test_no_persistent_invalidations) ... ok
+test_plan_not_present_fact (test_engine.BehaviorTests.test_plan_not_present_fact) ... ok
+test_relative_weekday_anchored_to_session (test_engine.BehaviorTests.test_relative_weekday_anchored_to_session) ... ok
+test_set_valued_attribute (test_engine.BehaviorTests.test_set_valued_attribute) ... ok
+test_source_integrity (test_engine.BehaviorTests.test_source_integrity) ... ok
+test_stable_unique_ids (test_engine.BehaviorTests.test_stable_unique_ids) ... ok
+test_unknown_time (test_engine.BehaviorTests.test_unknown_time) ... ok
+test_unsupported_relative_time_is_unknown (test_engine.BehaviorTests.test_unsupported_relative_time_is_unknown) ... ok
+test_vector_never_masquerades_as_lexical (test_engine.BehaviorTests.test_vector_never_masquerades_as_lexical) ... ok
+test_evidence_split_and_dedup (test_engine.MetricTests.test_evidence_split_and_dedup) ... ok
+test_missing_relation_counts_wrong (test_engine.MetricTests.test_missing_relation_counts_wrong) ... ok
+test_multi_answer_and_empty (test_engine.MetricTests.test_multi_answer_and_empty) ... ok
+test_no_gold_evidence_is_na (test_engine.MetricTests.test_no_gold_evidence_is_na) ... ok
+test_split_guard (test_engine.MetricTests.test_split_guard) ... ok
+test_token_f1 (test_engine.MetricTests.test_token_f1) ... ok
+
+----------------------------------------------------------------------
+Ran 54 tests in 0.861s
+
+OK (skipped=5)

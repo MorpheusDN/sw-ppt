@@ -1,0 +1,9 @@
+{"question_id":"S01","answers":["interviews_passed"],"evidence":["D3:1"],"relations":[{"from_turn":"D1:1","to_turn":"D2:1","label":"UPDATE"},{"from_turn":"D2:1","to_turn":"D3:1","label":"UPDATE"}]}
+{"question_id":"S02","answers":["researching"],"evidence":["D1:1"],"relations":[]}
+{"question_id":"S03","answers":["Seattle"],"evidence":["D2:2"],"relations":[{"from_turn":"D1:2","to_turn":"D2:2","label":"SUPERSEDE"}]}
+{"question_id":"S04","answers":["Boston"],"evidence":["D1:2"],"relations":[]}
+{"question_id":"S05","answers":["London"],"evidence":["D3:2"],"relations":[{"from_turn":"D1:3","to_turn":"D3:2","label":"SUPERSEDE"}]}
+{"question_id":"S06","answers":["swimming pottery"],"evidence":["D1:4","D2:3"],"relations":[{"from_turn":"D1:4","to_turn":"D2:3","label":"RETAIN"}]}
+{"question_id":"S07","answers":["Insufficient evidence."],"evidence":[],"relations":[]}
+{"question_id":"S08","answers":["Cannot determine reliably from the available evidence."],"evidence":["D1:1","D1:2"],"relations":[{"from_turn":"D1:1","to_turn":"D1:2","label":"CONFLICT"}]}
+{"question_id":"S09","answers":["Cannot determine reliably from the available evidence."],"evidence":["D2:1"],"relations":[]}

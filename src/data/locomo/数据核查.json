@@ -1,0 +1,144 @@
+{
+  "checked_at": "2026-10-19T15:54:47.745852+00:00",
+  "repository": "https://github.com/snap-research/locomo",
+  "commit": "3eb6f2c585f5e1699204e3c3bdf7adc5c28cb376",
+  "data_url": "https://raw.githubusercontent.com/snap-research/locomo/3eb6f2c585f5e1699204e3c3bdf7adc5c28cb376/data/locomo10.json",
+  "data_sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4",
+  "conversation_count": 10,
+  "top_level_fields": [
+    "conversation",
+    "event_summary",
+    "observation",
+    "qa",
+    "sample_id",
+    "session_summary"
+  ],
+  "qa_fields_counts": {
+    "question": 1986,
+    "answer": 1542,
+    "evidence": 1986,
+    "category": 1986,
+    "adversarial_answer": 446
+  },
+  "conversations": [
+    {
+      "sample_id": "conv-26",
+      "speakers": [
+        "Caroline",
+        "Melanie"
+      ],
+      "sessions": 19,
+      "turns": 419,
+      "qa": 199,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-30",
+      "speakers": [
+        "Jon",
+        "Gina"
+      ],
+      "sessions": 19,
+      "turns": 369,
+      "qa": 105,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-41",
+      "speakers": [
+        "John",
+        "Maria"
+      ],
+      "sessions": 32,
+      "turns": 663,
+      "qa": 193,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-42",
+      "speakers": [
+        "Joanna",
+        "Nate"
+      ],
+      "sessions": 29,
+      "turns": 629,
+      "qa": 260,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-43",
+      "speakers": [
+        "Tim",
+        "John"
+      ],
+      "sessions": 29,
+      "turns": 680,
+      "qa": 242,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-44",
+      "speakers": [
+        "Audrey",
+        "Andrew"
+      ],
+      "sessions": 28,
+      "turns": 675,
+      "qa": 158,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-47",
+      "speakers": [
+        "James",
+        "John"
+      ],
+      "sessions": 31,
+      "turns": 689,
+      "qa": 190,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-48",
+      "speakers": [
+        "Deborah",
+        "Jolene"
+      ],
+      "sessions": 30,
+      "turns": 681,
+      "qa": 239,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-49",
+      "speakers": [
+        "Evan",
+        "Sam"
+      ],
+      "sessions": 25,
+      "turns": 509,
+      "qa": 196,
+      "course_split": "not provided"
+    },
+    {
+      "sample_id": "conv-50",
+      "speakers": [
+        "Calvin",
+        "Dave"
+      ],
+      "sessions": 30,
+      "turns": 568,
+      "qa": 204,
+      "course_split": "not provided"
+    }
+  ],
+  "integration_check": {
+    "all_conversations_imported": 10,
+    "extracted_memory_count": 17233,
+    "unchanged_after_removing_qa_and_summaries": true,
+    "memory_source_text_matches_raw_turn": true,
+    "formal_qa_or_dynamic_evaluation_run": false
+  },
+  "course_selected_ids_and_4_plus_2_split": null,
+  "note": "Public LoCoMo QA and event annotations are not course RETAIN/UPDATE/SUPERSEDE and final-effective-Memory labels."
+}

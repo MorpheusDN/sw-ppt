@@ -1,0 +1,16 @@
+{
+  "questions": {
+    "dev": {
+      "evaluated": 30,
+      "all_eligible": 584
+    },
+    "test": {
+      "evaluated": 16,
+      "all_eligible": 301
+    }
+  },
+  "conversations": 6,
+  "memories": 10207,
+  "qa_policy": "two questions per category 1-4 per conversation, ordered by SHA-256(question); all eligible questions retained in all-* files; no performance-based sampling",
+  "adversarial_excluded": 272
+}

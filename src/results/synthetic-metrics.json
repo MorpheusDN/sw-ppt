@@ -1,0 +1,88 @@
+{
+  "n_questions": 9,
+  "run_kinds": [
+    "local-diagnostic"
+  ],
+  "qa_f1": 1.0,
+  "candidate_recall_at_k": 1.0,
+  "recall_scored_questions": 8,
+  "effective_recall": 0.75,
+  "relation_accuracy": 1.0,
+  "relation_pairs_scored": 6,
+  "mean_seconds": 0.00014326666779298749,
+  "detail": [
+    {
+      "question_id": "S01",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 0.0004920999999740161
+    },
+    {
+      "question_id": "S02",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.000109500004327856
+    },
+    {
+      "question_id": "S03",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 9.54000061028637e-05
+    },
+    {
+      "question_id": "S04",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 7.470000127796084e-05
+    },
+    {
+      "question_id": "S05",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 7.719999848632142e-05
+    },
+    {
+      "question_id": "S06",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 7.790000381646678e-05
+    },
+    {
+      "question_id": "S07",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": null,
+      "effective_recall": null,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.00018740000086836517
+    },
+    {
+      "question_id": "S08",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 0.00011719999747583643
+    },
+    {
+      "question_id": "S09",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 5.7999997807201e-05
+    }
+  ],
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}

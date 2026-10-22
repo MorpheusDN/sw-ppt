@@ -1,0 +1,285 @@
+{
+  "n_questions": 30,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.040079365079365076,
+  "candidate_recall_at_k": null,
+  "recall_scored_questions": 0,
+  "effective_recall": null,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 12.393109813333043,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 30,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.19694170771756978,
+  "candidate_recall_at_k": 0.5444444444444444,
+  "recall_scored_questions": 30,
+  "effective_recall": 0.5444444444444444,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.3284644033337827,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 30,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.11837027914614122,
+  "candidate_recall_at_k": 0.5444444444444444,
+  "recall_scored_questions": 30,
+  "effective_recall": 0.49444444444444446,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.306683296666597,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0,
+  "candidate_recall_at_k": null,
+  "recall_scored_questions": 0,
+  "effective_recall": null,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 15.291679356248096,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.09077380952380952,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.5364583333333334,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.5112109999990935,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0818452380952381,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.4739583333333333,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.5273136874989177,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0,
+  "candidate_recall_at_k": null,
+  "recall_scored_questions": 0,
+  "effective_recall": null,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 15.53211577500042,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.09077380952380952,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.5364583333333334,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.3736813499999698,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0818452380952381,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.4739583333333333,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.35944589375048963,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0,
+  "candidate_recall_at_k": null,
+  "recall_scored_questions": 0,
+  "effective_recall": null,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 14.803202131250146,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.09077380952380952,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.5364583333333334,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.37916940624972995,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "n_questions": 16,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.0818452380952381,
+  "candidate_recall_at_k": 0.5364583333333334,
+  "recall_scored_questions": 16,
+  "effective_recall": 0.4739583333333333,
+  "relation_accuracy": null,
+  "relation_pairs_scored": 0,
+  "mean_seconds": 0.3656485312503719,
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
+{
+  "kind": "project-defined-real-locomo; not official course split",
+  "data": {
+    "questions": {
+      "dev": {
+        "evaluated": 30,
+        "all_eligible": 584
+      },
+      "test": {
+        "evaluated": 16,
+        "all_eligible": 301
+      }
+    },
+    "conversations": 6,
+    "memories": 10207,
+    "qa_policy": "two questions per category 1-4 per conversation, ordered by SHA-256(question); all eligible questions retained in all-* files; no performance-based sampling",
+    "adversarial_excluded": 272
+  },
+  "dev": [
+    {
+      "method": "full_text",
+      "n_questions": 30,
+      "qa_f1": 0.040079365079365076,
+      "candidate_recall_at_k": null,
+      "effective_recall": null,
+      "mean_seconds": 12.393109813333043
+    },
+    {
+      "method": "vector",
+      "n_questions": 30,
+      "qa_f1": 0.19694170771756978,
+      "candidate_recall_at_k": 0.5444444444444444,
+      "effective_recall": 0.5444444444444444,
+      "mean_seconds": 0.3284644033337827
+    },
+    {
+      "method": "dynamic_vector",
+      "n_questions": 30,
+      "qa_f1": 0.11837027914614122,
+      "candidate_recall_at_k": 0.5444444444444444,
+      "effective_recall": 0.49444444444444446,
+      "mean_seconds": 0.306683296666597
+    }
+  ],
+  "test": [
+    {
+      "method": "full_text",
+      "n_questions": 16,
+      "runs": 3,
+      "qa_f1": 0.0,
+      "qa_f1_sd": 0.0,
+      "candidate_recall_at_k": null,
+      "candidate_recall_at_k_sd": null,
+      "effective_recall": null,
+      "effective_recall_sd": null,
+      "mean_seconds": 15.208999087499555,
+      "mean_seconds_sd": 0.37142400991531765,
+      "answers_identical_across_runs": true,
+      "abstentions": 0,
+      "total_fulltext_windows_per_run": 1997
+    },
+    {
+      "method": "vector",
+      "n_questions": 16,
+      "runs": 3,
+      "qa_f1": 0.09077380952380952,
+      "qa_f1_sd": 0.0,
+      "candidate_recall_at_k": 0.5364583333333334,
+      "candidate_recall_at_k_sd": 0.0,
+      "effective_recall": 0.5364583333333334,
+      "effective_recall_sd": 0.0,
+      "mean_seconds": 0.42135391874959777,
+      "mean_seconds_sd": 0.07786687985503843,
+      "answers_identical_across_runs": true,
+      "abstentions": 0,
+      "total_fulltext_windows_per_run": 16
+    },
+    {
+      "method": "dynamic_vector",
+      "n_questions": 16,
+      "runs": 3,
+      "qa_f1": 0.0818452380952381,
+      "qa_f1_sd": 0.0,
+      "candidate_recall_at_k": 0.5364583333333334,
+      "candidate_recall_at_k_sd": 0.0,
+      "effective_recall": 0.4739583333333333,
+      "effective_recall_sd": 0.0,
+      "mean_seconds": 0.41746937083325975,
+      "mean_seconds_sd": 0.09517850915935669,
+      "answers_identical_across_runs": true,
+      "abstentions": 4,
+      "total_fulltext_windows_per_run": 12
+    }
+  ],
+  "candidate_identity_verified": true,
+  "repetitions": "three fresh CPU inference runs; ONNX deterministic, seeds logged but no sampling is used",
+  "limitations": [
+    "only 30 development and 16 holdout QA questions were evaluated",
+    "project-defined split, source examples inspected, not a blind course test",
+    "single-span SQuAD answerer cannot synthesize multi-hop or list answers",
+    "self-built dynamic annotations have no independent human review"
+  ],
+  "self_built_dynamic": {
+    "n_questions": 12,
+    "run_kinds": [
+      "project-defined-real-locomo"
+    ],
+    "qa_f1": 0.2813390313390313,
+    "candidate_recall_at_k": 0.7083333333333334,
+    "recall_scored_questions": 12,
+    "effective_recall": 0.4305555555555556,
+    "relation_accuracy": 0.4,
+    "relation_pairs_scored": 10,
+    "mean_seconds": 0.6475155833340978,
+    "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+  }
+}

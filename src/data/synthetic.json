@@ -1,0 +1,37 @@
+{
+  "dataset_kind": "SYNTHETIC REGRESSION FIXTURE NOT LOCOMO",
+  "conversations": [
+    {
+      "conversation_id": "synthetic-adoption",
+      "sessions": [
+        {"session_id": 1, "timestamp": "2023-05-01T10:00:00", "turns": [
+          {"turn_id": "D1:1", "speaker": "Alice", "text": "I am researching adoption agencies."},
+          {"turn_id": "D1:2", "speaker": "Alice", "text": "I live in Boston."},
+          {"turn_id": "D1:3", "speaker": "Bob", "text": "I live in Paris."},
+          {"turn_id": "D1:4", "speaker": "Alice", "text": "I enjoy swimming."}
+        ]},
+        {"session_id": 2, "timestamp": "2023-07-01T10:00:00", "turns": [
+          {"turn_id": "D2:1", "speaker": "Alice", "text": "I applied to adoption agencies."},
+          {"turn_id": "D2:2", "speaker": "Alice", "text": "I moved to Seattle."},
+          {"turn_id": "D2:3", "speaker": "Alice", "text": "I enjoy pottery."}
+        ]},
+        {"session_id": 3, "timestamp": "2023-10-22T09:55:00", "turns": [
+          {"turn_id": "D3:1", "speaker": "Alice", "text": "I passed the adoption agency interviews last Friday!"},
+          {"turn_id": "D3:2", "speaker": "Bob", "text": "I live in London."}
+        ]}
+      ]
+    },
+    {
+      "conversation_id": "synthetic-conflict",
+      "sessions": [
+        {"session_id": 1, "timestamp": "2023-08-01T09:00:00", "turns": [
+          {"turn_id": "D1:1", "speaker": "Dana", "text": "I work at DoorDash."},
+          {"turn_id": "D1:2", "speaker": "Dana", "text": "I lost my job at DoorDash."}
+        ]},
+        {"session_id": 2, "timestamp": null, "turns": [
+          {"turn_id": "D2:1", "speaker": "Dana", "text": "I live in Dublin."}
+        ]}
+      ]
+    }
+  ]
+}

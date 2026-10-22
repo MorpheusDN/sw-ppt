@@ -1,0 +1,14 @@
+{
+  "issue": "sentence splitter produced empty trailing segments after whitespace",
+  "empty_memories_removed": 61,
+  "valid_memory_count": 10207,
+  "current_version": "0.5.1-locomo-onnx",
+  "full_text_frozen_version": "0.5.0-locomo-onnx",
+  "full_text_source_preserved_at": "process/archive/0.5.0-inference/memory_engine.py",
+  "all_full_text_contexts_identical_after_fix": true,
+  "full_text_prediction_rows_checked": 78,
+  "answer_model_code_unchanged": true,
+  "raw_data_unchanged": true,
+  "rerun_policy": "all 8 vector/dynamic main runs and 12-question dynamic diagnostic rerun; full-text neural inference retained because all 78 raw contexts and answer model are byte-identical",
+  "new_regression_test": "test_no_empty_memories_after_sentence_split"
+}

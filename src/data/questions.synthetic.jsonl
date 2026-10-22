@@ -1,0 +1,9 @@
+{"question_id":"S01","conversation_id":"synthetic-adoption","question":"What is Alice's current adoption status?"}
+{"question_id":"S02","conversation_id":"synthetic-adoption","question":"What is Alice's adoption status?","as_of":"2023-06-01T23:59:59"}
+{"question_id":"S03","conversation_id":"synthetic-adoption","question":"Where does Alice live now?"}
+{"question_id":"S04","conversation_id":"synthetic-adoption","question":"Where does Alice live?","as_of":"2023-06-01T23:59:59"}
+{"question_id":"S05","conversation_id":"synthetic-adoption","question":"Where does Bob live now?"}
+{"question_id":"S06","conversation_id":"synthetic-adoption","question":"What hobbies does Alice enjoy?"}
+{"question_id":"S07","conversation_id":"synthetic-adoption","question":"What is Alice's salary?"}
+{"question_id":"S08","conversation_id":"synthetic-conflict","question":"Does Dana still work at DoorDash?"}
+{"question_id":"S09","conversation_id":"synthetic-conflict","question":"Where does Dana live?"}

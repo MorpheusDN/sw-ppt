@@ -1,0 +1,30 @@
+{"question_id": "conv-26-qa-024", "answers": ["Running, pottery"], "evidence": ["D7:22", "D5:4"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-070", "answers": ["Poetry reading, conference"], "evidence": ["D17:19", "D15:13"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-072", "answers": ["2022"], "evidence": ["D17:3"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-045", "answers": ["The Friday before 14 August 2023"], "evidence": ["D11:4"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-064", "answers": ["Yes; it's classical music"], "evidence": ["D15:28"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-027", "answers": ["LIkely no; though she likes reading, she wants to be a counselor"], "evidence": ["D7:5", "D7:9"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-123", "answers": ["guinea pig"], "evidence": ["D13:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-117", "answers": ["once or twice a year"], "evidence": ["D10:10"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-024", "answers": ["fair, networking events, dance competition"], "evidence": ["D10:1", "D16:6", "D8:4"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-029", "answers": ["Paris, Rome"], "evidence": ["D2:4", "D15:1"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-026", "answers": ["15 June, 2023"], "evidence": ["D14:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-015", "answers": ["May, 2023"], "evidence": ["D8:13"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-059", "answers": ["she is passionate about dance and fashion"], "evidence": ["D8:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-002", "answers": ["by dancing"], "evidence": ["D1:7", "D1:6"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-018", "answers": ["Rob"], "evidence": ["D7:16", "D10:1"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-028", "answers": ["Veterans, schools, infrastructure"], "evidence": ["D15:3", "D12:5", "D9:8", "D1:8"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-058", "answers": ["Two weeks before 11 August 2023"], "evidence": ["D30:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-091", "answers": ["a tech-for-good convention"], "evidence": ["D12:9"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-014", "answers": ["Yes"], "evidence": ["D8:18", "D8:20"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-064", "answers": ["Shelter coordinator, Counselor"], "evidence": ["D32:14", "D5:8", "D11:10", "D27:4"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-099", "answers": ["share stories and make connections"], "evidence": ["D15:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-124", "answers": ["played games like charades and a scavenger hunt"], "evidence": ["D24:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-074", "answers": ["\"Eternal Sunshine of the Spotless Mind\" movie, \"A Court of Thorns and Roses\" book, pointers for making living room comfy, starting a cork board for memories, \"Little Women\" movie"], "evidence": ["D1:16", "D3:17", "D15:14", "D15:15", "D19:15", "D19:16", "D23:26"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-047", "answers": ["A tournament and agaming convention."], "evidence": ["D14:8", "D23:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-022", "answers": ["May 2022"], "evidence": ["D12:13", "D12:14"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-043", "answers": ["four months"], "evidence": ["D17:14", "D22:9"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-084", "answers": ["No; because both of them faced setbacks in their career"], "evidence": ["D20:1", "D21:1"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-066", "answers": ["an animalkeeper at a localzoo and workingwith turtles; as heknows a great dealabout turtles andhow to care for them,and he enjoys it."], "evidence": ["D5:8", "D19:3", "D25:19", "D28:25"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-115", "answers": ["Dramas and emotionally-driven films"], "evidence": ["D9:9"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-194", "answers": ["He saw another one at a pet store and wanted to get it"], "evidence": ["D28:25"], "category": 4, "relations": []}

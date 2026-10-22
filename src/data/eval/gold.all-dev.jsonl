@@ -1,0 +1,584 @@
+{"question_id": "conv-26-qa-000", "answers": ["7 May 2023"], "evidence": ["D1:3"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-001", "answers": ["2022"], "evidence": ["D1:12"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-002", "answers": ["Psychology, counseling certification"], "evidence": ["D1:9", "D1:11"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-003", "answers": ["Adoption agencies"], "evidence": ["D2:8"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-004", "answers": ["Transgender woman"], "evidence": ["D1:5"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-005", "answers": ["The sunday before 25 May 2023"], "evidence": ["D2:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-006", "answers": ["June 2023"], "evidence": ["D2:7"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-007", "answers": ["Single"], "evidence": ["D3:13", "D2:14"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-008", "answers": ["The week before 9 June 2023"], "evidence": ["D3:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-009", "answers": ["The week before 9 June 2023"], "evidence": ["D3:11"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-010", "answers": ["4 years"], "evidence": ["D3:13"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-011", "answers": ["Sweden"], "evidence": ["D3:13", "D4:3"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-012", "answers": ["10 years ago"], "evidence": ["D4:5"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-013", "answers": ["counseling or mental health for Transgender people"], "evidence": ["D4:13", "D1:11"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-014", "answers": ["Likely no"], "evidence": ["D4:15", "D3:5"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-015", "answers": ["pottery, camping, painting, swimming"], "evidence": ["D5:4", "D9:1", "D1:12", "D1:18"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-016", "answers": ["2 July 2023"], "evidence": ["D5:4"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-017", "answers": ["July 2023"], "evidence": ["D5:13"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-018", "answers": ["beach, mountains, forest"], "evidence": ["D6:16", "D4:6", "D8:32"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-019", "answers": ["dinosaurs, nature"], "evidence": ["D6:6", "D4:8"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-020", "answers": ["5 July 2023"], "evidence": ["D6:4"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-021", "answers": ["The week before 6 July 2023"], "evidence": ["D6:11"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-022", "answers": ["Yes, since she collects classic children's books"], "evidence": ["D6:9"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-023", "answers": ["\"Nothing is Impossible\", \"Charlotte's Web\""], "evidence": ["D7:8", "D6:10"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-024", "answers": ["Running, pottery"], "evidence": ["D7:22", "D5:4"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-025", "answers": ["10 July 2023"], "evidence": ["D7:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-026", "answers": ["2022"], "evidence": ["D7:8"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-027", "answers": ["LIkely no; though she likes reading, she wants to be a counselor"], "evidence": ["D7:5", "D7:9"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-028", "answers": ["The friday before 15 July 2023"], "evidence": ["D8:9"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-029", "answers": ["The Friday before 15 July 2023"], "evidence": ["D8:2"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-030", "answers": ["Likely no, she does not refer to herself as part of it"], "evidence": [], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-031", "answers": ["The week before 27 June 2023"], "evidence": ["D4:8"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-032", "answers": ["Pride parade, school speech, support group"], "evidence": ["D5:1", "D8:17", "D3:1", "D1:3"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-033", "answers": ["The week before 3 July 2023"], "evidence": ["D5:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-034", "answers": ["Mentoring program, school speech"], "evidence": ["D9:2", "D3:3"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-035", "answers": ["two weekends before 17 July 2023"], "evidence": ["D9:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-036", "answers": ["The weekend before 17 July 2023"], "evidence": ["D9:2"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-037", "answers": ["sunset"], "evidence": ["D8:6; D9:17"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-038", "answers": ["Pottery, painting, camping, museum, swimming, hiking"], "evidence": ["D8:4", "D8:6", "D9:1", "D6:4", "D1:18", "D3:14"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-039", "answers": ["Joining activist group, going to pride parades, participating in an art show, mentoring program"], "evidence": ["D10:3", "D5:1", "D9:12", "D9:2"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-040", "answers": ["2"], "evidence": ["D10:8", "D6:16"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-041", "answers": ["The Tuesday before 20 July 2023"], "evidence": ["D10:3"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-042", "answers": ["National park; she likes the outdoors"], "evidence": ["D10:12", "D10:14"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-043", "answers": ["abstract art"], "evidence": ["D11:12", "D11:8", "D9:14"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-044", "answers": ["13 August"], "evidence": ["D11:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-045", "answers": ["The Friday before 14 August 2023"], "evidence": ["D11:4"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-046", "answers": ["Yes, she is supportive"], "evidence": [], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-047", "answers": ["Her mentors, family, and friends"], "evidence": ["D12:1", "D3:11"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-048", "answers": ["bowls, cup"], "evidence": ["D12:14", "D8:4", "D5:6"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-049", "answers": ["2022"], "evidence": ["D12:15"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-050", "answers": ["Liberal"], "evidence": ["D12:1"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-051", "answers": ["Horse, sunset, sunrise"], "evidence": ["D13:8", "D8:6", "D1:12"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-052", "answers": ["Oliver, Luna, Bailey"], "evidence": ["D13:4", "D7:18"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-053", "answers": ["The week of 23 August 2023"], "evidence": ["D13:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-054", "answers": ["The week before 23 August 2023"], "evidence": ["D13:11"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-055", "answers": ["Sunsets"], "evidence": ["D14:5", "D8:6"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-056", "answers": ["Rainbow flag, transgender symbol"], "evidence": ["D14:15", "D4:1"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-057", "answers": ["The week before 25 August 2023"], "evidence": ["D14:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-058", "answers": ["24 August 2023"], "evidence": ["D14:4"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-059", "answers": ["Somewhat, but not extremely religious"], "evidence": ["D14:19", "D12:1"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-060", "answers": ["clarinet and violin"], "evidence": ["D15:26", "D2:5"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-061", "answers": ["Summer Sounds, Matt Patterson"], "evidence": ["D15:16", "D11:3"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-062", "answers": ["27 August 2023"], "evidence": ["D15:2"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-063", "answers": ["September 2023"], "evidence": ["D15:11"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-064", "answers": ["Yes; it's classical music"], "evidence": ["D15:28"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-065", "answers": ["Changes to her body, losing unsupportive friends"], "evidence": ["D16:15", "D11:14"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-066", "answers": ["Roast marshmallows, tell stories"], "evidence": ["D16:4", "D10:12"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-067", "answers": ["The weekend before 13 September 2023"], "evidence": ["D16:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-068", "answers": ["Since 2016"], "evidence": ["D16:8"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-069", "answers": ["Thoughtful, authentic, driven"], "evidence": ["D16:18", "D13:16", "D7:4"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-070", "answers": ["Poetry reading, conference"], "evidence": ["D17:19", "D15:13"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-071", "answers": ["\"Becoming Nicole\""], "evidence": ["D7:11", "D17:10"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-072", "answers": ["2022"], "evidence": ["D17:3"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-073", "answers": ["September 2023"], "evidence": ["D17:8"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-074", "answers": ["The weekend before 20 October 2023"], "evidence": ["D18:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-075", "answers": ["3"], "evidence": ["D18:1", "D18:7"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-076", "answers": ["19 October 2023"], "evidence": ["D18:17"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-077", "answers": ["Likely no; since this one went badly"], "evidence": ["D18:3", "D18:1"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-078", "answers": ["Figurines, shoes"], "evidence": ["D19:2", "D7:18"], "category": 1, "relations": []}
+{"question_id": "conv-26-qa-079", "answers": ["The Friday before 22 October 2023"], "evidence": ["D19:1"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-080", "answers": ["21 October 2023"], "evidence": ["D19:2"], "category": 2, "relations": []}
+{"question_id": "conv-26-qa-081", "answers": ["No; she's in the process of adopting children."], "evidence": ["D19:1", "D19:3"], "category": 3, "relations": []}
+{"question_id": "conv-26-qa-082", "answers": ["mental health"], "evidence": ["D2:2"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-083", "answers": ["self-care is important"], "evidence": ["D2:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-084", "answers": ["by carving out some me-time each day for activities like running, reading, or playing the violin"], "evidence": ["D2:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-085", "answers": ["researching adoption agencies"], "evidence": ["D2:8"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-086", "answers": ["LGBTQ+ individuals"], "evidence": ["D2:12"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-087", "answers": ["because of their inclusivity and support for LGBTQ+ individuals"], "evidence": ["D2:12"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-088", "answers": ["creating a family for kids who need one"], "evidence": ["D2:14"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-089", "answers": ["she thinks Caroline is doing something amazing and will be an awesome mom"], "evidence": ["D2:15"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-090", "answers": ["Mel and her husband have been married for 5 years."], "evidence": ["D3:16"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-091", "answers": ["love, faith, and strength"], "evidence": ["D4:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-092", "answers": ["Sweden"], "evidence": ["D4:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-093", "answers": ["necklace"], "evidence": ["D4:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-094", "answers": ["art and self-expression"], "evidence": ["D4:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-095", "answers": ["explored nature, roasted marshmallows, and went on a hike"], "evidence": ["D4:8"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-096", "answers": ["working with trans people, helping them accept themselves and supporting their mental health"], "evidence": ["D4:13"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-097", "answers": ["LGBTQ+ counseling workshop"], "evidence": ["D4:13"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-098", "answers": ["therapeutic methods and how to best work with trans people"], "evidence": ["D4:13"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-099", "answers": ["her own journey and the support she received, and how counseling improved her life"], "evidence": ["D4:15"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-100", "answers": ["a safe and inviting place for people to grow"], "evidence": ["D4:15"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-101", "answers": ["Yes"], "evidence": ["D5:8"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-102", "answers": ["kids' books - classics, stories from different cultures, educational books"], "evidence": ["D6:9"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-103", "answers": ["\"Charlotte's Web\""], "evidence": ["D6:10"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-104", "answers": ["\"Becoming Nicole\""], "evidence": ["D7:11"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-105", "answers": ["Lessons on self-acceptance and finding support"], "evidence": ["D7:13"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-106", "answers": ["Running"], "evidence": ["D7:19"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-107", "answers": ["To de-stress and clear her mind"], "evidence": ["D7:21"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-108", "answers": ["Her mental health"], "evidence": ["D7:24"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-109", "answers": ["pots"], "evidence": ["D8:2"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-110", "answers": ["a cup with a dog face on it"], "evidence": ["D8:4"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-111", "answers": ["painting"], "evidence": ["D8:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-112", "answers": ["a sunset with a palm tree"], "evidence": ["D8:6"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-113", "answers": ["many people wanting to create loving homes for children in need"], "evidence": ["D8:9"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-114", "answers": ["warmth and happiness"], "evidence": ["D8:11"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-115", "answers": ["They remind her to appreciate the small moments and were a part of her wedding decor"], "evidence": ["D8:12"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-116", "answers": ["visiting an LGBTQ center and wanting to capture unity and strength"], "evidence": ["D9:16"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-117", "answers": ["once or twice a year"], "evidence": ["D10:10"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-118", "answers": ["Perseid meteor shower"], "evidence": ["D10:14"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-119", "answers": ["in awe of the universe"], "evidence": ["D10:18"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-120", "answers": ["Melanie's daughter"], "evidence": ["D11:1"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-121", "answers": ["Matt Patterson"], "evidence": ["D11:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-122", "answers": ["She wanted to catch the eye and make people smile."], "evidence": ["D12:6"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-123", "answers": ["guinea pig"], "evidence": ["D13:3"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-124", "answers": ["Two cats and a dog"], "evidence": ["D13:4"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-125", "answers": ["In Melanie's slipper"], "evidence": ["D13:6"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-126", "answers": ["Horseback riding"], "evidence": ["D13:7"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-127", "answers": ["a stained glass window"], "evidence": ["D14:17"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-128", "answers": ["a rainbow sidewalk"], "evidence": ["D14:23"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-129", "answers": ["Brave by Sara Bareilles"], "evidence": ["D15:23"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-130", "answers": ["Bach and Mozart"], "evidence": ["D15:28"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-131", "answers": ["Ed Sheeran"], "evidence": ["D15:28"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-132", "answers": ["7 years"], "evidence": ["D16:7"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-133", "answers": ["A sign stating that someone is not being able to leave"], "evidence": ["D16:16"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-134", "answers": ["Do research, find an adoption agency or lawyer, gather necessary documents, and prepare emotionally."], "evidence": ["D17:7"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-135", "answers": ["She got hurt and had to take a break from pottery."], "evidence": ["D17:8"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-136", "answers": ["Read a book and paint."], "evidence": ["D17:10"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-137", "answers": ["A painting inspired by sunsets with a pink sky."], "evidence": ["D17:12"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-138", "answers": ["An abstract painting with blue streaks on a wall."], "evidence": ["D17:14"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-139", "answers": ["It was a transgender poetry reading where transgender people shared their stories."], "evidence": ["D17:18"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-140", "answers": ["\"Trans Lives Matter\""], "evidence": ["D17:19"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-141", "answers": ["Freedom and being true to herself."], "evidence": ["D17:23"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-142", "answers": ["An ongoing adventure of learning and growing."], "evidence": ["D17:25"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-143", "answers": ["He got into an accident"], "evidence": ["D18:1"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-144", "answers": ["He was scared but reassured by his family"], "evidence": ["D18:6", "D18:7"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-145", "answers": ["They are important and mean the world to her"], "evidence": ["D18:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-146", "answers": ["They were scared but resilient"], "evidence": ["D18:7"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-147", "answers": ["Grateful and thankful for her family"], "evidence": ["D18:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-148", "answers": ["She was happy and thankful"], "evidence": ["D18:5"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-149", "answers": ["Strength and motivation"], "evidence": ["D18:9"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-150", "answers": ["She appreciated them a lot"], "evidence": ["D18:13"], "category": 4, "relations": []}
+{"question_id": "conv-26-qa-151", "answers": ["Went on a nature walk or hike"], "evidence": ["D18:17"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-000", "answers": ["19 January, 2023"], "evidence": ["D1:2"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-001", "answers": ["January, 2023"], "evidence": ["D1:3"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-002", "answers": ["by dancing"], "evidence": ["D1:7", "D1:6"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-003", "answers": ["They lost their jobs and decided to start their own businesses."], "evidence": ["D1:2", "D1:3", "D1:4", "D2:1"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-004", "answers": ["He lost his job and decided to start his own business to share his passion."], "evidence": ["D1:2", "D1:4"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-005", "answers": ["By the water, with natural light and Marley flooring"], "evidence": ["D1:20", "D2:4", "D2:8"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-006", "answers": ["February, 2023"], "evidence": ["D1:24"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-007", "answers": ["29 January, 2023"], "evidence": ["D2:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-008", "answers": ["28 January 2023"], "evidence": ["D2:4"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-009", "answers": ["Rome"], "evidence": ["D2:5", "D15:1"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-010", "answers": ["February, 2023"], "evidence": ["D5:5"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-011", "answers": ["A few years ago"], "evidence": ["D5:15"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-012", "answers": ["March, 2023"], "evidence": ["D6:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-013", "answers": ["16 March, 2023"], "evidence": ["D6:6"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-014", "answers": ["April, 2023"], "evidence": ["D8:13"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-015", "answers": ["May, 2023"], "evidence": ["D8:13"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-016", "answers": ["24 April, 2023"], "evidence": ["D10:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-017", "answers": ["She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business."], "evidence": ["D6:8", "D1:3"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-018", "answers": ["Yes"], "evidence": ["D1:4", "D6:8"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-019", "answers": ["10 May, 2023"], "evidence": ["D11:14"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-020", "answers": ["27 May, 2023"], "evidence": ["D12:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-021", "answers": ["May, 2023"], "evidence": ["D12:6"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-022", "answers": ["June, 2023"], "evidence": ["D13:4"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-023", "answers": ["worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces"], "evidence": ["D5:5", "D16:3", "D8:4", "D13:4"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-024", "answers": ["fair, networking events, dance competition"], "evidence": ["D10:1", "D16:6", "D8:4"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-025", "answers": ["one-on-one metoring and training to dancers,  workshops and classes to local schools and centers"], "evidence": ["D13:7", "D8:13"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-026", "answers": ["15 June, 2023"], "evidence": ["D14:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-027", "answers": ["Yes"], "evidence": ["D1:14", "D14:14", "D1:16", "D1:17", "D9:10"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-028", "answers": ["June 2023"], "evidence": ["D15:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-029", "answers": ["Paris, Rome"], "evidence": ["D2:4", "D15:1"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-030", "answers": ["20 June, 2023"], "evidence": ["D15:5"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-031", "answers": ["six months"], "evidence": ["D1:2", "D15:13"], "category": 1, "relations": []}
+{"question_id": "conv-30-qa-032", "answers": ["June 2023"], "evidence": ["D16:3"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-033", "answers": ["20 June, 2023"], "evidence": ["D16:6"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-034", "answers": ["July 2023"], "evidence": ["D17:1"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-035", "answers": ["July, 2023"], "evidence": ["D17:4"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-036", "answers": ["21 July 2023"], "evidence": ["D18:18"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-037", "answers": [" 23 July, 2023"], "evidence": ["D19:4"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-038", "answers": ["21 July 2023"], "evidence": ["D19:6"], "category": 2, "relations": []}
+{"question_id": "conv-30-qa-039", "answers": ["Contemporary"], "evidence": ["D1:9"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-040", "answers": ["Contemporary"], "evidence": ["D1:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-041", "answers": ["Winning first place at a regionals dance competition"], "evidence": ["D1:17"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-042", "answers": ["\"Finding Freedom\""], "evidence": ["D1:19"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-043", "answers": ["They are performing at the festival"], "evidence": ["D1:25"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-044", "answers": ["They look graceful"], "evidence": ["D1:26"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-045", "answers": ["Glad"], "evidence": ["D1:28"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-046", "answers": ["Marley flooring"], "evidence": ["D2:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-047", "answers": ["The perfect spot for her store"], "evidence": ["D3:2"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-048", "answers": ["the space, furniture, and decor"], "evidence": ["D3:4"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-049", "answers": ["cozy and comfortable"], "evidence": ["D3:6", "D3:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-050", "answers": ["hard work's paying off"], "evidence": ["D3:3"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-051", "answers": ["personal style and customer comfort"], "evidence": ["D3:6"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-052", "answers": ["It's the key to making them feel welcome and coming back"], "evidence": ["D3:9"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-053", "answers": ["making them want to come back"], "evidence": ["D3:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-054", "answers": ["The store is doing great."], "evidence": ["D4:2"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-055", "answers": ["Freedom and expressing herself through dance"], "evidence": ["D5:15"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-056", "answers": ["dancing together and supporting each other"], "evidence": ["D6:15", "D6:16"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-057", "answers": ["build relationships with customers, create a strong brand image, stay positive"], "evidence": ["D7:5"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-058", "answers": ["for his business"], "evidence": ["D8:1"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-059", "answers": ["she is passionate about dance and fashion"], "evidence": ["D8:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-060", "answers": ["happy"], "evidence": ["D9:5"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-061", "answers": ["a trophy"], "evidence": ["D9:10"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-062", "answers": ["By reminding herself of her successes and progress, having a support system, and focusing on why she started"], "evidence": ["D10:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-063", "answers": ["fashion internship"], "evidence": ["D12:1"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-064", "answers": ["fashion department of an international company"], "evidence": ["D12:3"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-065", "answers": ["The Lean Startup"], "evidence": ["D12:6"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-066", "answers": ["One-on-one mentoring and training"], "evidence": ["D13:7"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-067", "answers": ["To set goals, track achievements, and find areas for improvement"], "evidence": ["D13:11"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-068", "answers": ["quit"], "evidence": ["D14:17"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-069", "answers": ["To clear his mind"], "evidence": ["D15:1"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-070", "answers": ["a dance studio"], "evidence": ["D15:3"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-071", "answers": ["amazing"], "evidence": ["D15:6"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-072", "answers": ["excited"], "evidence": ["D15:7"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-073", "answers": ["magical"], "evidence": ["D15:8"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-074", "answers": ["savor all the good vibes"], "evidence": ["D15:9"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-075", "answers": ["Let's live it up and make some great memories"], "evidence": ["D15:12"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-076", "answers": ["excitement"], "evidence": ["D15:18", "D15:19"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-077", "answers": ["Hoodies"], "evidence": ["D16:3"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-078", "answers": ["His positivity and determination"], "evidence": ["D17:7"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-080", "answers": ["Sprucing up his business plan, tweaking his pitch to investors, and working on an online platform."], "evidence": ["D18:10"], "category": 4, "relations": []}
+{"question_id": "conv-30-qa-081", "answers": ["Helping with making content and managing his social media accounts."], "evidence": ["D18:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-000", "answers": ["her mother"], "evidence": ["D13:16"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-001", "answers": ["21 December 2022"], "evidence": ["D2:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-002", "answers": ["Kickboxing, Taekwondo"], "evidence": ["D2:28", "D1:4"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-003", "answers": ["Volunteering at a homeless shelter"], "evidence": ["D3:5", "D2:1"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-004", "answers": ["The week before 1 January 2023"], "evidence": ["D3:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-005", "answers": ["December 2022"], "evidence": ["D3:15"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-006", "answers": ["homeless shelter, gym, church"], "evidence": ["D4:1", "D2:1", "D19:1", "D14:10"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-007", "answers": ["A doll, a film camera"], "evidence": ["D5:13", "D3:15"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-008", "answers": ["Middle-class or wealthy"], "evidence": ["D5:5"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-009", "answers": ["Her aunt"], "evidence": ["D6:9", "D5:8"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-010", "answers": ["February 24, 2023"], "evidence": ["D7:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-011", "answers": ["David, Jean, Cindy, Laura"], "evidence": ["D7:5", "D6:5", "D27:8", "D21:19"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-012", "answers": ["The military aptitude test"], "evidence": ["D8:18", "D3:11"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-013", "answers": ["The week before 6 March 2023"], "evidence": ["D8:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-014", "answers": ["Yes"], "evidence": ["D8:18", "D8:20"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-015", "answers": ["Poetry, creative writing"], "evidence": ["D9:1", "D7:1"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-016", "answers": ["The week before 2 April 2023"], "evidence": ["D9:2"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-017", "answers": ["Political science, Public administration, Public affairs"], "evidence": ["D9:6"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-018", "answers": ["Rob"], "evidence": ["D7:16", "D10:1"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-019", "answers": ["Broken windshield, Car broke down"], "evidence": ["D11:1", "D4:2"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-020", "answers": ["2022"], "evidence": ["D11:3", "D11:5"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-021", "answers": ["Pacific northwest, east coast"], "evidence": ["D11:5", "D12:17"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-022", "answers": ["March 2023"], "evidence": ["D12:9"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-023", "answers": ["Banana split sundae, Peach cobbler"], "evidence": ["D2:25", "D13:18"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-024", "answers": ["April.2023"], "evidence": ["D13:3"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-025", "answers": ["Spain, England"], "evidence": ["D13:24", "D8:15"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-026", "answers": ["Join a local church, buy a cross necklace"], "evidence": ["D14:10", "D11:10"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-027", "answers": ["The Friday before 20 May 2023"], "evidence": ["D15:11"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-028", "answers": ["Veterans, schools, infrastructure"], "evidence": ["D15:3", "D12:5", "D9:8", "D1:8"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-029", "answers": ["Chili cook-off, ring-toss tournament"], "evidence": ["D16:4", "D15:18"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-030", "answers": ["The homeless shelter, the dog shelter"], "evidence": ["D2:1", "D11:10", "D17:12"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-031", "answers": ["In 2013"], "evidence": ["D17:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-032", "answers": ["Hiking, mountaineering"], "evidence": ["D18:2", "D16:2"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-033", "answers": ["Aerial, kundalini"], "evidence": ["D1:3", "D18:15", "D19:3"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-034", "answers": ["The week before 16 June 2023"], "evidence": ["D19:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-035", "answers": ["Oregon, Florida"], "evidence": ["D19:23", "D18:3"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-036", "answers": ["Live music event, violin concert"], "evidence": ["D20:4", "D8:12"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-037", "answers": ["Petition, march, party, visiting veterans hospital, 5K charity run"], "evidence": ["D15:1", "D15:11", "D21:22", "D24:1", "D29:4"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-038", "answers": ["July 2, 2023"], "evidence": ["D21:3"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-039", "answers": ["Independence Day"], "evidence": ["D21:3"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-040", "answers": ["Kyle, Sara"], "evidence": ["D8:4", "D22:7"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-041", "answers": ["beach"], "evidence": ["D22:15"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-042", "answers": ["West County"], "evidence": ["D14:21", "D23:1"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-043", "answers": ["The week before 7 July 2023"], "evidence": ["D23:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-044", "answers": ["Hiking, picnic, volunteer work"], "evidence": ["D25:2", "D24:6", "D28:5"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-045", "answers": ["No, he has goals specifically in the U.S. like joining the military and running for office."], "evidence": ["D24:3", "D7:2"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-046", "answers": ["The weekend before 22 July 2023"], "evidence": ["D25:2"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-047", "answers": ["Weight training, Circuit training, Kickboxing, yoga"], "evidence": ["D25:17", "D25:13", "D10:1", "D1:4"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-048", "answers": ["The sunday before 3` July 2023"], "evidence": ["D26:4"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-049", "answers": ["Cakes"], "evidence": ["D26:1", "D25:19"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-050", "answers": ["Selfless, family-oriented, passionate, rational"], "evidence": ["D26:6", "D2:14", "D3:5", "D4:6"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-051", "answers": ["Around August 2022"], "evidence": ["D27:4"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-052", "answers": ["Cindy, Laura"], "evidence": ["D27:8", "D21:19"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-053", "answers": ["2022"], "evidence": ["D28:11"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-054", "answers": ["August 4, 2023"], "evidence": ["D28:8"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-055", "answers": ["The week before 9 August 2023"], "evidence": ["D29:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-056", "answers": ["first weekend of August 2023"], "evidence": ["D29:2", "D29:4"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-057", "answers": ["Toy drive, Community food drive, veterans, domestic violence"], "evidence": ["D3:5", "D6:12", "D29:4", "D29:10"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-058", "answers": ["Two weeks before 11 August 2023"], "evidence": ["D30:1"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-059", "answers": ["The summer of 2022"], "evidence": ["D30:6"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-060", "answers": ["Coco, Shadow"], "evidence": ["D30:1", "D31:4"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-061", "answers": ["The week before 13 August 2023"], "evidence": ["D31:2"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-062", "answers": ["two"], "evidence": ["D30:1", "D31:2"], "category": 1, "relations": []}
+{"question_id": "conv-41-qa-063", "answers": ["two weeks"], "evidence": ["D30:1", "D31:2"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-064", "answers": ["Shelter coordinator, Counselor"], "evidence": ["D32:14", "D5:8", "D11:10", "D27:4"], "category": 3, "relations": []}
+{"question_id": "conv-41-qa-065", "answers": ["Improving education and infrastructure"], "evidence": ["D1:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-066", "answers": ["Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up."], "evidence": ["D1:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-067", "answers": ["Enabled needed repairs and renovations, making the learning environment safer and more modern for students."], "evidence": ["D1:12"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-068", "answers": ["aerial yoga"], "evidence": ["D1:3"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-069", "answers": ["old car"], "evidence": ["D2:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-070", "answers": ["pizza"], "evidence": ["D2:24"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-071", "answers": ["service-focused online group"], "evidence": ["D3:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-072", "answers": ["gave out food and supplies at a homeless shelter, organized a toy drive for kids in need"], "evidence": ["D3:5"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-073", "answers": ["Her aunt"], "evidence": ["D5:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-074", "answers": ["The girl seemed sad and had no other family"], "evidence": ["D5:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-075", "answers": ["divorce, job loss, homelessness"], "evidence": ["D7:7"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-076", "answers": ["saw the impact he could make in the community through politics"], "evidence": ["D7:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-077", "answers": ["beginner's yoga class"], "evidence": ["D7:16"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-078", "answers": ["Kyle"], "evidence": ["D8:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-079", "answers": ["A few times a week"], "evidence": ["D8:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-080", "answers": ["painting of a castle on a hill"], "evidence": ["D8:15"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-081", "answers": ["England"], "evidence": ["D8:15"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-082", "answers": ["completion of a university degree"], "evidence": ["D9:2"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-083", "answers": ["education and infrastructure"], "evidence": ["D9:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-084", "answers": ["a 5K charity run"], "evidence": ["D10:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-085", "answers": ["career fair at a local school"], "evidence": ["D10:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-086", "answers": ["His car broke down"], "evidence": ["D11:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-087", "answers": ["Pacific Northwest"], "evidence": ["D11:5"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-088", "answers": ["politics and the government"], "evidence": ["D12:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-089", "answers": ["raise awareness and start conversations to create positive change"], "evidence": ["D12:3"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-090", "answers": ["education reform and infrastructure development"], "evidence": ["D12:5"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-091", "answers": ["a tech-for-good convention"], "evidence": ["D12:9"], "category": 2, "relations": []}
+{"question_id": "conv-41-qa-092", "answers": ["Three times a week"], "evidence": ["D13:7"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-093", "answers": ["More energy, gains in strength and endurance"], "evidence": ["D13:5"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-094", "answers": ["Salads, sandwiches, homemade desserts"], "evidence": ["D13:18"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-095", "answers": ["Made dinner together"], "evidence": ["D13:16"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-096", "answers": ["joined a nearby church"], "evidence": ["D14:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-097", "answers": ["to feel closer to a community and her faith"], "evidence": ["D14:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-098", "answers": ["a small party to share their stories"], "evidence": ["D15:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-099", "answers": ["share stories and make connections"], "evidence": ["D15:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-100", "answers": ["heartwarming"], "evidence": ["D15:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-101", "answers": ["fundraiser"], "evidence": ["D16:2"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-102", "answers": ["chili cook-off"], "evidence": ["D16:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-103", "answers": ["Max"], "evidence": ["D17:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-104", "answers": ["10 years"], "evidence": ["D17:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-105", "answers": ["By considering adopting a rescue dog"], "evidence": ["D17:11"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-106", "answers": ["Responsibility and compassion"], "evidence": ["D17:11"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-107", "answers": ["volunteering at a local dog shelter once a month"], "evidence": ["D17:12"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-108", "answers": ["Like being in a fairy tale"], "evidence": ["D18:7"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-109", "answers": ["Free and light"], "evidence": ["D18:17"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-110", "answers": ["joined a gym"], "evidence": ["D19:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-111", "answers": ["kundalini yoga"], "evidence": ["D19:3"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-112", "answers": ["assistant manager"], "evidence": ["D19:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-113", "answers": ["self-doubt"], "evidence": ["D19:12"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-114", "answers": ["having support at home and his own grit"], "evidence": ["D19:12"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-115", "answers": ["live music event"], "evidence": ["D20:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-116", "answers": ["Her cousin had to leave and find a new place in a hurry."], "evidence": ["D21:5"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-117", "answers": ["marching event"], "evidence": ["D21:22"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-118", "answers": ["Respect for the military and the desire to show support"], "evidence": ["D21:24"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-119", "answers": ["At least once a week"], "evidence": ["D22:17"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-120", "answers": ["Flood"], "evidence": ["D23:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-121", "answers": ["Lots of homes were ruined."], "evidence": ["D23:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-122", "answers": ["Flood in John's old area"], "evidence": ["D23:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-123", "answers": ["have dinner with friends from the gym"], "evidence": ["D23:14"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-124", "answers": ["played games like charades and a scavenger hunt"], "evidence": ["D24:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-125", "answers": ["the resilience of the veterans and their inspiring stories"], "evidence": ["D24:3"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-126", "answers": ["appreciation for giving back"], "evidence": ["D24:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-127", "answers": ["seeing the resilience of the veterans"], "evidence": ["D24:3"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-128", "answers": ["hiking"], "evidence": ["D25:2"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-129", "answers": ["Trying new classes is a fun way to switch up the exercise routine."], "evidence": ["D25:14"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-130", "answers": ["weight training"], "evidence": ["D25:17"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-131", "answers": ["volunteered at a homeless shelter"], "evidence": ["D26:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-132", "answers": ["Witnessed a family struggling on the streets and reached out to the shelter"], "evidence": ["D27:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-133", "answers": ["Had a meaningful experience at a military memorial"], "evidence": ["D27:9"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-134", "answers": ["awestruck and humbled"], "evidence": ["D27:11"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-135", "answers": ["To remember and appreciate those who served"], "evidence": ["D27:12"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-136", "answers": ["Teaching them to respect and appreciate those who served"], "evidence": ["D27:13"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-137", "answers": ["John lost his job at the mechanical engineering company."], "evidence": ["D28:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-138", "answers": ["community work"], "evidence": ["D28:8"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-139", "answers": ["Helped renovate a rundown community center."], "evidence": ["D28:11"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-140", "answers": ["veterans and their families"], "evidence": ["D29:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-141", "answers": ["a local organization"], "evidence": ["D29:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-142", "answers": ["a medal for volunteering"], "evidence": ["D29:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-143", "answers": ["Coco"], "evidence": ["D30:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-144", "answers": ["Camping"], "evidence": ["D30:6"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-145", "answers": ["Peaceful and awesome"], "evidence": ["D30:6"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-146", "answers": ["Not feeling like making much of an impact"], "evidence": ["D30:14"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-147", "answers": ["Shadow"], "evidence": ["D31:4"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-148", "answers": ["doing great - learning commands and house training"], "evidence": ["D31:10"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-149", "answers": ["mentoring students at a local school"], "evidence": ["D31:1"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-150", "answers": ["going for hikes, hanging out at the park, having picnics, playing board games, having movie nights"], "evidence": ["D31:19"], "category": 4, "relations": []}
+{"question_id": "conv-41-qa-151", "answers": ["a brand new fire truck"], "evidence": ["D32:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-000", "answers": ["Yesteammates on hisvideo game team."], "evidence": ["D1:7"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-001", "answers": ["Watching movies, making desserts"], "evidence": ["D1:10", "D1:11", "D1:12", "D3:4", "D4:9", "D10:9", "D20:2"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-002", "answers": ["2019"], "evidence": ["D1:18"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-003", "answers": ["the week before 21Janury, 2022"], "evidence": ["D1:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-004", "answers": ["Hairless cats or pigs,since they don't have fur, which is one of the main causes of Joanna's allergy."], "evidence": ["D2:23"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-005", "answers": ["Writing, watchingmovies, exploringnature, hanging withfriends."], "evidence": ["D1:10", "D2:25"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-006", "answers": ["three years"], "evidence": ["D2:12"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-007", "answers": ["The Friday before 23January, 2022"], "evidence": ["D2:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-008", "answers": ["2019"], "evidence": ["D2:12"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-009", "answers": ["finished her screenplay and printed it"], "evidence": ["D2:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-010", "answers": ["Relief, excitement,worry, hope,anxiety."], "evidence": ["D2:7", "D3:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-011", "answers": ["Most reptiles,animals with fur,cockroaches, dairy"], "evidence": ["D4:4", "D5:11", "D2:23"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-012", "answers": ["asthma"], "evidence": ["D5:11", "D2:23"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-013", "answers": ["23 March, 2022."], "evidence": ["D6:2"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-014", "answers": ["Jo"], "evidence": ["D7:1"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-015", "answers": ["The week before 15April, 2022."], "evidence": ["D7:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-016", "answers": ["dyed his hair purple"], "evidence": ["D7:1", "D7:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-017", "answers": ["Lord of the Rings"], "evidence": ["D10:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-018", "answers": ["Whispering Falls waterfall"], "evidence": ["D11:7"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-019", "answers": ["twice"], "evidence": ["D8:4", "D11:3"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-020", "answers": ["May 2022"], "evidence": ["D12:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-021", "answers": ["Max"], "evidence": ["D12:3"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-022", "answers": ["May 2022"], "evidence": ["D12:13", "D12:14"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-023", "answers": ["first screenplay on drama and romance, third screenplay on loss identity and connection"], "evidence": ["D14:1", "D3:1", "D2:7", "D24:12", "D24:13"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-024", "answers": ["The weekend after 3June, 2022."], "evidence": ["D14:20"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-025", "answers": ["The weekend after 3June, 2022."], "evidence": ["D14:19"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-026", "answers": ["The week before 3June, 2022"], "evidence": ["D14:8"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-027", "answers": ["film contest, film festival."], "evidence": ["D2:7", "D16:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-028", "answers": ["The Friday before 24June, 2022."], "evidence": ["D16:8"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-029", "answers": ["The weekend of 24June, 2022."], "evidence": ["D16:11"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-030", "answers": ["Screenplays,books, online blog posts, journal"], "evidence": ["D2:3", "D17:14", "D18:1", "D18:5"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-031", "answers": ["The Friday before 10July, 2022."], "evidence": ["D17:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-032", "answers": ["Woodhaven"], "evidence": ["D17:4"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-033", "answers": ["The week before 14August, 2022."], "evidence": ["D18:5"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-034", "answers": ["\"Little Women\",'A Court of Thorns andRoses'."], "evidence": ["D3:17", "D19:14", "D19:16"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-035", "answers": ["The weekend of 22August, 2022."], "evidence": ["D19:9"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-036", "answers": ["The week before 22August, 2022."], "evidence": ["D19:6"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-037", "answers": ["21 August, 2022"], "evidence": ["D19:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-038", "answers": ["The Friday before 14September, 2022"], "evidence": ["D21:9"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-039", "answers": ["The Monday before 14September, 2022"], "evidence": ["D21:4"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-040", "answers": ["The week before 14September, 2022"], "evidence": ["D21:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-041", "answers": ["5 October, 2022"], "evidence": ["D22:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-042", "answers": ["\"Little Women\", \"Lord of the Rings\""], "evidence": ["D3:17", "D10:1", "D22:8"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-043", "answers": ["four months"], "evidence": ["D17:14", "D22:9"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-044", "answers": ["September 2022"], "evidence": ["D22:2"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-045", "answers": ["The week before 6October, 2022"], "evidence": ["D22:9"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-046", "answers": ["Chess, Catan."], "evidence": ["D16:2", "D23:7"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-047", "answers": ["A tournament and agaming convention."], "evidence": ["D14:8", "D23:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-048", "answers": ["The Friday before 9October, 2022."], "evidence": ["D23:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-049", "answers": ["Twice"], "evidence": ["D14:1", "D24:12"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-050", "answers": ["stuffed toy pup"], "evidence": ["D13:9", "D24:2"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-051", "answers": ["25 May, 2022"], "evidence": ["D13:9", "D24:2"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-052", "answers": ["two"], "evidence": ["D15:1", "D25:2"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-053", "answers": ["Twice."], "evidence": ["D5:4", "D25:15"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-054", "answers": ["The Sunday before 25October, 2022."], "evidence": ["D25:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-055", "answers": ["Personal experiences,her own journey ofself discovery, Nate,nature, validation,stories about findingcourage and takingrisks, people she knows, stuff she sees, imagination"], "evidence": ["D4:6", "D7:6", "D11:11", "D26:3", "D26:7", "D25:10"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-056", "answers": ["Turtles."], "evidence": ["D5:6", "D26:9"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-057", "answers": ["5 November, 2022."], "evidence": ["D26:19"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-058", "answers": ["A pet,\"The Lord of the Rings\" movies,a dragon book series,coconut flavoring,\"Project Hail Mary\" book,Xenoblade Chronicles, dairy-free margarine, coconut oil"], "evidence": ["D2:14", "D9:12", "D9:14", "D10:11", "D19:17", "D27:23", "D10:19"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-059", "answers": ["Hangs them on a corkboard, writes themin a notebook."], "evidence": ["D15:9", "D27:34"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-060", "answers": ["A Nintendo Switch; since the game \"Xenoblade 2\" is made for this console."], "evidence": ["D27:23"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-061", "answers": ["Gamecube, PC,Playstation."], "evidence": ["D22:2", "D27:21", "D27:15"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-062", "answers": ["Two"], "evidence": ["D14:1", "D18:5"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-063", "answers": ["Valorant, Counter Strike:Global Offensive,Xenoblade Chronicles, StreetFighter, Cyberpunk 2077"], "evidence": ["D10:6", "D27:1", "D27:23", "D1:7", "D23:17"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-064", "answers": ["The Saturday before 7November, 2022"], "evidence": ["D27:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-065", "answers": ["Valorant"], "evidence": ["D27:1"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-066", "answers": ["an animalkeeper at a localzoo and workingwith turtles; as heknows a great dealabout turtles andhow to care for them,and he enjoys it."], "evidence": ["D5:8", "D19:3", "D25:19", "D28:25"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-067", "answers": ["A dog and threeturtles."], "evidence": ["D8:3", "D12:3", "D28:23"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-068", "answers": ["Four"], "evidence": ["D7:6", "D11:5", "D14:21", "D28:22"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-069", "answers": ["Three"], "evidence": ["D8:3", "D28:23"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-070", "answers": ["takes them onwalks, holds them,feeds themstrawberries, givesthem baths."], "evidence": ["D25:21", "D25:23", "D28:31"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-071", "answers": ["Nature"], "evidence": ["D11:9", "D28:23"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-072", "answers": ["10 November, 2022"], "evidence": ["D28:32"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-073", "answers": ["Indiana"], "evidence": ["D28:22"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-074", "answers": ["\"Eternal Sunshine of the Spotless Mind\" movie, \"A Court of Thorns and Roses\" book, pointers for making living room comfy, starting a cork board for memories, \"Little Women\" movie"], "evidence": ["D1:16", "D3:17", "D15:14", "D15:15", "D19:15", "D19:16", "D23:26"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-075", "answers": ["coconut milk icecream, dairy-free chocolate cake with berries, chocolate and mixed-berry icecream, dairy-free chocolate mousse"], "evidence": ["D3:4", "D3:10", "D21:10", "D3:12"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-076", "answers": ["teaching others, cooking show"], "evidence": ["D18:8", "D21:4"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-077", "answers": ["The week before 2 May, 2022."], "evidence": ["D10:4"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-078", "answers": ["nine"], "evidence": ["D1:3", "D6:7", "D10:4", "D14:8", "D17:1", "D19:1", "D20:1", "D22:2", "D27:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-079", "answers": ["three"], "evidence": ["D2:3", "D4:10", "D5:1", "D12:13", "D12:14"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-080", "answers": ["seven"], "evidence": ["D1:3", "D10:4", "D14:8", "D17:1", "D19:1", "D22:2", "D27:1"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-081", "answers": ["dairy free vanilla cake with strawberry filling and coconut cream frosting, parfait, strawberry chocolate cake, chocolate coconut cupcakes, chocolate raspberry tart, chocolate cake with raspberries, blueberry cheesecake bars"], "evidence": ["D10:9", "D10:11", "D19:8", "D20:2", "D20:10", "D21:11", "D22:1", "D21:3", "D21:17"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-082", "answers": ["coconut milk icecream, chocolate and vanilla swirl"], "evidence": ["D3:4", "D4:3"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-083", "answers": ["coconut milk ice cream recipe, reset high scores, tips to improve gaming skills"], "evidence": ["D18:8", "D26:12", "D14:16"], "category": 1, "relations": []}
+{"question_id": "conv-42-qa-084", "answers": ["No; because both of them faced setbacks in their career"], "evidence": ["D20:1", "D21:1"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-085", "answers": ["filmmaker."], "evidence": ["D29:1"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-086", "answers": ["10 November, 2022"], "evidence": ["D29:6"], "category": 2, "relations": []}
+{"question_id": "conv-42-qa-087", "answers": ["Florida"], "evidence": ["D29:6"], "category": 3, "relations": []}
+{"question_id": "conv-42-qa-088", "answers": ["\"Eternal Sunshineof the Spotless Mind\""], "evidence": ["D1:18", "D", "D1:20"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-089", "answers": ["purple"], "evidence": ["D7:1", "D7:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-090", "answers": ["Lord of the Rings"], "evidence": ["D9:12"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-091", "answers": ["dragons"], "evidence": ["D9:14"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-092", "answers": ["red and purple lighting"], "evidence": ["D10:2"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-093", "answers": ["Street Fighter"], "evidence": ["D10:4", "D10:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-094", "answers": ["loss, identity, and connection"], "evidence": ["D12:13", "D12:14"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-095", "answers": ["Xenoblade Chronicles"], "evidence": ["D27:22", "D27:23"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-096", "answers": ["action and sci-fi"], "evidence": ["D1:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-097", "answers": ["screenplay"], "evidence": ["D2:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-098", "answers": ["drama and romance"], "evidence": ["D2:5"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-099", "answers": ["submit it to film festivals and get producers and directors to check it out"], "evidence": ["D2:7"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-100", "answers": ["3 years"], "evidence": ["D2:12"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-101", "answers": ["Super good, rich and creamy"], "evidence": ["D3:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-102", "answers": ["chocolate and mixed berry"], "evidence": ["D3:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-103", "answers": ["\"Little Women\""], "evidence": ["D3:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-104", "answers": ["Sisterhood, love, and reaching for your dreams"], "evidence": ["D3:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-105", "answers": ["chocolate and vanilla swirl"], "evidence": ["D4:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-106", "answers": ["personal experiences and her own journey of self-discovery"], "evidence": ["D4:16"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-107", "answers": ["Their slow pace and calming nature"], "evidence": ["D5:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-108", "answers": ["Not tough; keep their area clean, feed them properly, give them enough light."], "evidence": ["D5:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-109", "answers": ["writing gig"], "evidence": ["D6:2"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-110", "answers": ["Bright and bold - like him"], "evidence": ["D7:5"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-111", "answers": ["Coconut milk, vanilla extract, sugar, salt"], "evidence": ["D8:19"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-112", "answers": ["\"Finding Home\""], "evidence": ["D9:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-113", "answers": ["Fantasy and sci-fi"], "evidence": ["D9:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-114", "answers": ["Adventures and magic"], "evidence": ["D9:14"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-115", "answers": ["Dramas and emotionally-driven films"], "evidence": ["D9:9"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-116", "answers": ["watching fantasy and sci-fi movies"], "evidence": ["D9:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-117", "answers": ["strawberry"], "evidence": ["D10:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-118", "answers": ["coconut cream"], "evidence": ["D10:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-119", "answers": ["write a whole movie"], "evidence": ["D11:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-120", "answers": ["Start thinking about a drama and publish a screenplay"], "evidence": ["D11:16"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-121", "answers": ["Joanna"], "evidence": ["D11:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-122", "answers": ["get her a stuffed animal"], "evidence": ["D13:9"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-123", "answers": ["A stuffed animal to remind you of the good vibes"], "evidence": ["D13:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-124", "answers": ["A gaming party"], "evidence": ["D14:20"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-125", "answers": ["Tournament friends, old friends, teammates"], "evidence": ["D14:22"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-126", "answers": ["Custom controller decorations"], "evidence": ["D14:24"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-127", "answers": ["screenplay bits"], "evidence": ["D15:1"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-128", "answers": ["Spider-Man"], "evidence": ["D15:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-129", "answers": ["Iron Man"], "evidence": ["D15:4"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-130", "answers": ["inspiring quotes, photos, and little keepsakes"], "evidence": ["D15:7"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-131", "answers": ["love and encouragement from her family"], "evidence": ["D15:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-132", "answers": ["vegan ice cream"], "evidence": ["D16:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-133", "answers": ["7"], "evidence": ["D16:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-134", "answers": ["vegan ice cream recipe"], "evidence": ["D16:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-135", "answers": ["make it for her family"], "evidence": ["D16:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-136", "answers": ["Four"], "evidence": ["D17:1"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-137", "answers": ["Woodhaven"], "evidence": ["D17:4"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-138", "answers": ["cool old book collection"], "evidence": ["D17:4"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-139", "answers": ["loss, redemption, and forgiveness"], "evidence": ["D17:16"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-140", "answers": ["Woodhaven's interesting past and people"], "evidence": ["D17:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-141", "answers": ["Won a video game tournament"], "evidence": ["D17:2"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-142", "answers": ["Competing in video game tournaments"], "evidence": ["D17:1"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-143", "answers": ["Touched"], "evidence": ["D18:5"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-144", "answers": ["share her stories and hopefully have an impact"], "evidence": ["D18:7"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-145", "answers": ["A blog post about a hard moment in her life"], "evidence": ["D18:5"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-146", "answers": ["Knowing that her writing can make a difference"], "evidence": ["D18:7"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-147", "answers": ["Coconut milk ice cream"], "evidence": ["D18:9"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-148", "answers": ["Happy to share"], "evidence": ["D18:12"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-149", "answers": ["her book"], "evidence": ["D19:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-150", "answers": ["making a delicious treat"], "evidence": ["D19:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-151", "answers": ["Taking time off to chill with pets"], "evidence": ["D19:9"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-152", "answers": ["lactose intolerance"], "evidence": ["D20:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-153", "answers": ["dairy-free margarine or coconut oil"], "evidence": ["D20:15"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-154", "answers": ["a cooking show"], "evidence": ["D21:4"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-155", "answers": ["Coconut milk ice cream"], "evidence": ["D21:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-156", "answers": ["dairy-free chocolate mousse"], "evidence": ["D21:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-157", "answers": ["chocolate raspberry tart"], "evidence": ["D21:11"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-158", "answers": ["chocolate cake with raspberries"], "evidence": ["D21:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-159", "answers": ["blueberries and coconut milk"], "evidence": ["D21:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-160", "answers": ["Little Women"], "evidence": ["D22:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-161", "answers": ["a bookmark"], "evidence": ["D22:19"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-162", "answers": ["Catan"], "evidence": ["D23:7"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-163", "answers": ["\"Inception\""], "evidence": ["D23:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-164", "answers": ["Cyberpunk 2077"], "evidence": ["D23:17"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-165", "answers": ["a bookcase filled with dvds and movies"], "evidence": ["D23:15"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-166", "answers": ["gripping with great actors"], "evidence": ["D23:18"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-167", "answers": ["couch for multiple people, fluffy blanket, lights that can be dimmed"], "evidence": ["D23:26"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-168", "answers": ["stuffed animal dog named Tilly"], "evidence": ["D24:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-169", "answers": ["have a stuffed animal dog named Tilly with her"], "evidence": ["D24:4"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-170", "answers": ["after a dog she had in Michigan"], "evidence": ["D24:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-171", "answers": ["keep grinding and moving ahead"], "evidence": ["D24:14"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-172", "answers": ["respect Joanna for being able to bounce back"], "evidence": ["D24:15"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-173", "answers": ["rejections don't define her, keep grinding and she'll find the perfect opportunity"], "evidence": ["D24:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-174", "answers": ["his turtles"], "evidence": ["D24:3"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-175", "answers": ["naming a stuffed animal dog Tilly"], "evidence": ["D24:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-176", "answers": ["movie script"], "evidence": ["D25:2"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-177", "answers": ["visuals to help bring the characters alive in her head so she can write better"], "evidence": ["D25:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-178", "answers": ["people she knows, things she saw, her imagination"], "evidence": ["D25:10"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-179", "answers": ["surreal and cool"], "evidence": ["D25:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-180", "answers": ["combination of vegetables, fruits, and insects"], "evidence": ["D25:19"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-181", "answers": ["coconut milk"], "evidence": ["D26:18"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-182", "answers": ["early writings"], "evidence": ["D26:5"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-183", "answers": ["\"Xenoblade Chronicles\""], "evidence": ["D27:23"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-184", "answers": ["a handwritten letter"], "evidence": ["D27:29"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-185", "answers": ["fantasy RPG"], "evidence": ["D27:23"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-186", "answers": ["Homemade coconut ice cream"], "evidence": ["D28:1"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-187", "answers": ["A suspenseful thriller set in a small Midwestern town"], "evidence": ["D28:12"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-188", "answers": ["gaming content"], "evidence": ["D28:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-189", "answers": ["Love of gaming and connecting with others who enjoy it too"], "evidence": ["D28:15"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-190", "answers": ["Gaming videos"], "evidence": ["D28:13"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-191", "answers": ["Watch other people's videos to understand what the audience likes"], "evidence": ["D28:18"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-192", "answers": ["Sunset"], "evidence": ["D28:22"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-193", "answers": ["The incredible sunset and surrounding beauty"], "evidence": ["D28:22"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-194", "answers": ["He saw another one at a pet store and wanted to get it"], "evidence": ["D28:25"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-195", "answers": ["Watch one of Joanna's movies together or go to the park"], "evidence": ["D28:29"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-196", "answers": ["turtles"], "evidence": ["D29:6"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-197", "answers": ["They make him feel calm and don't require much looking after"], "evidence": ["D29:8"], "category": 4, "relations": []}
+{"question_id": "conv-42-qa-198", "answers": ["colorful bowls of coconut milk ice cream"], "evidence": ["D29:10"], "category": 4, "relations": []}

@@ -1,0 +1,54 @@
+{
+  "source_zip": "2026---sre---RISC-V---Project-main.zip",
+  "zip_sha256": "e9cabf23f35e9c1d6ae4bb6c2f5d2589dd8d4b4518eb42b5b8b8186e49b4081e",
+  "repository_url": "https://github.com/lkexciting/2026---sre---RISC-V---Project",
+  "file_count": 9,
+  "contains_git_history": false,
+  "files": [
+    {
+      "path": "docs/m1/milestone1.md",
+      "bytes": 6730,
+      "sha256": "6b283c3d99ad1f908a2a072d554b85130335caf3c13c23a0856ab684d1eb44c1"
+    },
+    {
+      "path": "docs/m2/milestone-2-vision-scope.md",
+      "bytes": 4233,
+      "sha256": "018bca2ecfa11839b08c95d55967f4d3b453179913cae241c9f11c2baf0fe87f"
+    },
+    {
+      "path": "process/minutes/2026-09-26-weekly.md",
+      "bytes": 2393,
+      "sha256": "a1af443bc071433c71cb3d2f2237e7934018ebcc875a80ffa9d6a260d83eb0d8"
+    },
+    {
+      "path": "process/minutes/2026-10-03-weekly.md",
+      "bytes": 2652,
+      "sha256": "157dcc453b1432640aa6ba2a79439a4c1e5b4ee9318e45f1559fa3db86c1c3a1"
+    },
+    {
+      "path": "process/plans/milestone-timeline.md",
+      "bytes": 1861,
+      "sha256": "1c75d7f6dd9e610431be2f42f772eeca545b35de084962b3e32d129527d02374"
+    },
+    {
+      "path": "process/plans/weekly-action-items.md",
+      "bytes": 3603,
+      "sha256": "12e4dc140fe973d2fac310917eae1e13b181dd117873456df3330f9dfdd35ce8"
+    },
+    {
+      "path": "process/screenshots/project-board-m2.png",
+      "bytes": 120213,
+      "sha256": "2a2874819efe4c6beaea241a5190e434f833b5efa2da3398022f58d77212536a"
+    },
+    {
+      "path": "process/templates/meeting-minutes-template.md",
+      "bytes": 2690,
+      "sha256": "684722f089940b3060db5fe90fae17b6ba57b93bac8f675147ac110546d7c2e3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2447,
+      "sha256": "9adbbfdb3bdcae3fdb36a294b379e108815f53ecefe3b007d483029a93dde657"
+    }
+  ]
+}

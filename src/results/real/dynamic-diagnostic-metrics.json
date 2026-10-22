@@ -1,0 +1,112 @@
+{
+  "n_questions": 12,
+  "run_kinds": [
+    "project-defined-real-locomo"
+  ],
+  "qa_f1": 0.2813390313390313,
+  "candidate_recall_at_k": 0.7083333333333334,
+  "recall_scored_questions": 12,
+  "effective_recall": 0.4305555555555556,
+  "relation_accuracy": 0.4,
+  "relation_pairs_scored": 10,
+  "mean_seconds": 0.6475155833340978,
+  "detail": [
+    {
+      "question_id": "project-dynamic-01",
+      "qa_f1": 0.8888888888888888,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 0.021041199994215276
+    },
+    {
+      "question_id": "project-dynamic-02",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.018585999998322222
+    },
+    {
+      "question_id": "project-dynamic-03",
+      "qa_f1": 1.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 0.0,
+      "elapsed_seconds": 0.7642506999982288
+    },
+    {
+      "question_id": "project-dynamic-04",
+      "qa_f1": 0.3333333333333333,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.5,
+      "relation_accuracy": 0.0,
+      "elapsed_seconds": 0.7684654000040609
+    },
+    {
+      "question_id": "project-dynamic-05",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 1.0,
+      "relation_accuracy": 1.0,
+      "elapsed_seconds": 1.176735799999733
+    },
+    {
+      "question_id": "project-dynamic-06",
+      "qa_f1": 0.15384615384615385,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.04049529999610968
+    },
+    {
+      "question_id": "project-dynamic-07",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.0,
+      "relation_accuracy": 0.0,
+      "elapsed_seconds": 1.2169704000043566
+    },
+    {
+      "question_id": "project-dynamic-08",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": 0.0,
+      "elapsed_seconds": 2.409695800000918
+    },
+    {
+      "question_id": "project-dynamic-09",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 1.3368907000040053
+    },
+    {
+      "question_id": "project-dynamic-10",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 0.5,
+      "effective_recall": 0.0,
+      "relation_accuracy": 0.0,
+      "elapsed_seconds": 0.005185200003325008
+    },
+    {
+      "question_id": "project-dynamic-11",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.6666666666666666,
+      "relation_accuracy": 0.5,
+      "elapsed_seconds": 0.00871970000298461
+    },
+    {
+      "question_id": "project-dynamic-12",
+      "qa_f1": 0.0,
+      "candidate_recall_at_k": 1.0,
+      "effective_recall": 0.0,
+      "relation_accuracy": null,
+      "elapsed_seconds": 0.0031508000029134564
+    }
+  ],
+  "scoring_convention": "local token F1, deduplicated source-turn recall, ordered-pair micro accuracy; TA scorer takes precedence"
+}
